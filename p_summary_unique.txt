@@ -1,0 +1,7 @@
+Write a very detailed paragraph summary of the new and unique information from the following passage:
+
+PASSAGE:
+<<TEXT>>
+END PASSAGE
+
+DETAILED PARAGRAPH SUMMARY OF NEW AND UNIQUE INFORMATION:

@@ -1,0 +1,7 @@
+Write a detailed paragraph summary of the following passage:
+
+PASSAGE:
+<<TEXT>>
+END PASSAGE
+
+PARAGRAPH SUMMARY:

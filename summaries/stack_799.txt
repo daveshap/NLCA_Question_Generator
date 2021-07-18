@@ -1,0 +1,1 @@
+In a server, if one has accidentally changed the owner:group for /etc, they can reset it back to root:root by issuing the command 'chown root:root etc'.

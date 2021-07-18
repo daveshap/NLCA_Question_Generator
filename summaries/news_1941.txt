@@ -1,0 +1,3 @@
+A new virus, disguised as a joke, is spreading rapidly across the net. The Windows-based virus gathers email addresses from Microsoft Outlook and uses its own mail sending software to spread itself to new victims. When it infects a machine, the Bagle variant turns off security measures that usually protect PCs. As well as plundering Microsoft Outlook for e-mail addresses to send itself to, Bagle.AT also tries to turn off the firewall and security centre services on Windows XP machines.
+
+This passage is about the newest form of the Joke-e-mail virus which is designed in such a way that when you open an attachment, it steals your email address and spreads itself to other PCs you may have connected with before opening the attachment.

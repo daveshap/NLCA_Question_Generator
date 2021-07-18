@@ -1,0 +1,1 @@
+The author is having a lot of trouble installing the TP-Link TL-WN822N wifi adapter on Ubuntu 18.04, and has already gone through most threads to help but is still having the same problems.

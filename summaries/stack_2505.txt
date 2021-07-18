@@ -1,0 +1,1 @@
+In multi-spectral images, there are many features that can be used for classification. An example is the vegetation index, which measures the amount of green plants in a particular area and can distinguish between types of vegetation. We get values from this type of image by making a plot with pixel intensities on one axis and the relevant property on the other axis.

@@ -1,0 +1,1 @@
+The writer is consolidating the logs from clients on an Ubuntu server that has rsyslog installed. He would like to know how he can see the amount of network traffic or file size transferred from client to server. Furthermore, he would like to filter what is sent before it is transferred to the sever.

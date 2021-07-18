@@ -64,13 +64,13 @@ For later:
   - Long term implications - what is the significance?
   - Trained on arbitrary sources.
 
-## Summarizer
+# Summarizer
 
-### Input data
+## Input data
 
 Use arbitrary datasets (see above)
 
-### Output data
+## Output data
 
 Use DAVINCI-INSTRUCT. Generate summaries with the following kinds of prompts:
 - Intent
@@ -79,13 +79,13 @@ Use DAVINCI-INSTRUCT. Generate summaries with the following kinds of prompts:
 - Novelty
 - Significance
 
-## Question Generator
+# Question Generator
 
-### Input data
+## Input data
 
 Use arbitrary datasets (see above)
 
-### Output data
+## Output data
 
 Use DAVINCI-INSTRUCT. Generate questions with the following kinds of prompts:
 - What are the most important questions to ask here?
@@ -93,27 +93,27 @@ Use DAVINCI-INSTRUCT. Generate questions with the following kinds of prompts:
 - What would a mother/parent/friend ask?
 - What would a curious/kind/empathetic person ask?
 
-## Constitution
+# Constitution
 
-### Input data
+## Input data
 
 1. Use arbitrary datasets above to generate contexts
 2. Generate corpuses from contexts using summarizer and question generator
 3. Corpuses will be input data
 
-### Output data
+## Output data
 
 Use DAVINCI-INSTRUCT. Generate constitution output with several prompts:
 - Core Objective Functions - "I should intervene because of suffering" etc.
 - Identity - "I am Raven, this is my purpose, what do I think about the following scenario?"
 
-## Output
+# Output
 
-### Input data
+## Input data
 
 - Corpuses (with constitution)
 
-### Output data
+## Output data
 
 Use DAVINCI-INSTRUCT. Generate Raven dialog output with prompts like:
 - "I am Raven, these are my functions. The following is a situation, etc, etc. What do I say?"
