@@ -1,0 +1,8 @@
+INSTRUCTIONS: Write a list of inquisitive and probing questions about the following passage:
+
+PASSAGE:
+<<TEXT>>
+END PASSAGE
+
+PROBING QUESTIONS:
+-

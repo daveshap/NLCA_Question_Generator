@@ -1,0 +1,3 @@
+What is the length of a long pulse?
+What type of switch is being used?
+What components are available to extend the pulse form the rising edge?

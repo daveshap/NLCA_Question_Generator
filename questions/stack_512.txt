@@ -1,0 +1,3 @@
+What is the writer's current audio player?
+What features does the writer seek in a new audio player?
+Which current Linux audio players does the writer not recommend or is not compatible with his system?

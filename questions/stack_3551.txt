@@ -1,0 +1,4 @@
+What is a Virtual Machine?
+What does Ahead of Time mean?
+How does ExcelsiorJet differ from other tools for security in Java?
+Do you feel that ExcelsiorJet is enough to protect against reverse engineering of code written in Java?

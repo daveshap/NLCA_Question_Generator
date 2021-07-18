@@ -1,0 +1,5 @@
+What is the patient's age?
+What was the patient's condition before and after the procedure?
+What is the diagnosis? What treatments are needed for this diagnosis?
+How long was anesthesia given for the procedure?
+What were the surgeon's impression of the neurological assessment during and after surgery?

@@ -1,0 +1,5 @@
+What is wrong with the patient?
+What previous medical history does the patient have?
+What medications does the patient take?
+Does the patient have any allergies to medication?
+Who are the primary caregiver and spouse of the patient?

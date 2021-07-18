@@ -1,0 +1,4 @@
+What is the goal?
+What voltage is needed to power a digital train set?
+How to ensure the off-before-on transition for the output signals?
+Are there problems with relying solely on software to make this transition?

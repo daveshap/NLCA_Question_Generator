@@ -1,0 +1,3 @@
+What are covariance and correlation?
+What is the difference between covariance and correlation?
+Are covariance and correlation equally structural?

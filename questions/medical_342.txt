@@ -1,0 +1,4 @@
+What type of procedure is the surgeon performing and why?
+What did the doctor find at the beginning of the surgery?
+How does he proceed to complete the surgery?
+What is wrong with this person, why does he need surgery?

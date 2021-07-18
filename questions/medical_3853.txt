@@ -1,0 +1,7 @@
+How many days of pain does the patient have?
+What is the sensation of pain like?
+Does she have fever, chills, or neck adenopathy?
+Is there any drainage from her mouth? 
+Does she have allergies to iodine, fish oil, Flexeril, or Betadine?
+What did they find on examination? 
+What is the next step for this patient?

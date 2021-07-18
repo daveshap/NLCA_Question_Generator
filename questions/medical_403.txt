@@ -1,0 +1,3 @@
+What is the condition the patient had?
+How did this operation help with the condition?
+What was special about the radiation and plaque placement?

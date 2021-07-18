@@ -1,0 +1,2 @@
+How can the last "cut" in Terminal be inserted into my text editor?
+Do I have a second clipboard separate from the system clipboard?

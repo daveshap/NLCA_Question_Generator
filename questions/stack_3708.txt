@@ -1,0 +1,3 @@
+What is a neural network?
+What do "neural networks vs everything else" mean in the passage?
+What are the reasons that these other machine learning algorithms may outperform a carefully regularized 2 layered neural network?

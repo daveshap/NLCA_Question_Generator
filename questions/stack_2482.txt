@@ -1,0 +1,2 @@
+What are the Geohashs converted to?
+What is the end result of converting geohashes to KML?

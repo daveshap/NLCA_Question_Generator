@@ -1,0 +1,2 @@
+What does T-slip mean?
+Can someone have the same maximum torque but at a lower slip value, if so, what will be its advantages and disadvantages?

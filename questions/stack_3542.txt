@@ -1,0 +1,3 @@
+Is the service public facing?
+Does this service not already use a firewall/NAT system to limit access outside of the server's control?
+What are the risks if an attacker were to successfully compromise the new server and what happens at that point?

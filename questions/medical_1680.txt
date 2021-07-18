@@ -1,0 +1,4 @@
+What is the patient's clinical presentation?
+What radiology tests were performed?
+What are the findings?
+What recommendations would you make to the physician based on the findings of this examination?

@@ -1,0 +1,4 @@
+What is a cluster configuration?
+What is a WSFC?
+What is the 'Clustered' attribute?
+Why does the passage say they are configured for AOAGs but not in a SQL cluster?

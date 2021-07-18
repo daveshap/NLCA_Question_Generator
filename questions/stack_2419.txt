@@ -1,0 +1,3 @@
+What does "gdaltranslate" do?
+What is the problem with trying to recreate using worldfile=yes?
+Why does it think that it is working anyway and what are the potential effects of this error message?

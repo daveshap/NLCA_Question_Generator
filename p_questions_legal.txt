@@ -1,0 +1,8 @@
+Write a list of legal questions about the following passage:
+
+PASSAGE:
+<<TEXT>>
+END PASSAGE
+
+LEGAL QUESTIONS:
+-

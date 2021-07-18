@@ -1,0 +1,3 @@
+What SSDs are currently in use, the make and model
+What version of Ubuntu is installed, and do they want to keep the current OS?
+Which will be used for the new drive: 'Install alongside Win10' or 'Erase and install Ubuntu'?

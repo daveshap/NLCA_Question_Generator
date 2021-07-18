@@ -1,0 +1,2 @@
+How would a person know for each application which packaging type the provider will keep current?
+In the future, when a system will have a mix of debian, snap, and even flatpak packages available for the various applications, how will someone know which ones to use?

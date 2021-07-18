@@ -1,0 +1,3 @@
+What is supervised classification, and what is unsupervised classification?
+What are the advantages of both methods?
+What are the disadvantages of both methods?

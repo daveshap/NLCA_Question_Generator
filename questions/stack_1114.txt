@@ -1,0 +1,2 @@
+Is it possible to insert a macro into an access database?
+How does one create another macro with a given input?

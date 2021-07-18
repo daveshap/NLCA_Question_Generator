@@ -1,0 +1,3 @@
+Is the voltage output a DC or AC voltage?
+How does the supply regulate current and voltage when attached to an active circuit?
+Does the PSU have a current limit if no load is connected?

@@ -1,0 +1,8 @@
+INSTRUCTIONS: Write a list of medical questions about the following passage:
+
+PASSAGE:
+<<TEXT>>
+END PASSAGE
+
+MEDICAL QUESTIONS:
+-

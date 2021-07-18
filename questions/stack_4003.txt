@@ -1,0 +1,3 @@
+What is a Gini index?
+What is a Random Forest node?
+What is the difference between a RF and Vanilla Bagging?

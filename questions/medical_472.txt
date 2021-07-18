@@ -1,0 +1,4 @@
+What was the patient's diagnosis?
+What did the doctors do for this?
+Was the patient put to sleep? If so, what was used and why?
+How did the operation go and what were some of the outcomes?
