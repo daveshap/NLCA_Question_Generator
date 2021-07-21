@@ -1,0 +1,4 @@
+What is the function of the Arduino?
+What is the function of the Raspberry Pi?
+Are both devices connected to a power supply?
+Which device is connected to which power source?

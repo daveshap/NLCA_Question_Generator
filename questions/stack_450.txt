@@ -1,0 +1,3 @@
+How do you connect to the remote PC?
+What software was used in the attempt to make the connection?
+What went wrong when trying to connect via ssh?

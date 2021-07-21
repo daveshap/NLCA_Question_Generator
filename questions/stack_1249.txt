@@ -1,0 +1,3 @@
+What does "missing data" mean in this context?
+What are two related tables?
+What is an inner join and what is an outer join?

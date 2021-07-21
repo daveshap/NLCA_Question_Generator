@@ -1,0 +1,5 @@
+What is entropy?
+What sources of entropy exist for Linux?
+Why does it matter what type of entropy is used for a computer user?
+How does a computer use entropy from the pool?
+Does a computer rely on its pools of entropy when browsing HTTPS websites or encrypting files with 7zip?

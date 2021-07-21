@@ -1,0 +1,4 @@
+What is the patient's diagnosis?
+What are the complications and indications for this procedure?
+How does the patient tolerate this procedure?
+Is there anything unusual about this case that would not apply to most people with hypoxia and abundant pulmonary secretions?

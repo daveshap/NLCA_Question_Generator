@@ -1,0 +1,2 @@
+How is ProtonMail more secure than Gmail?
+How does ProtonMail ensure the security of emails sent from Gmail to Gmail recipients, if Gmail itself is insecure?

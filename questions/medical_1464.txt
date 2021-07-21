@@ -1,0 +1,6 @@
+Does the patient have complaints of loud snoring?
+Is there sleep apnea witnessed by his wife?
+What is the severity of morning symptoms?
+What are all of the present medications?
+Was a history performed for smoking?
+Was an x-ray performed to rule out lung cancer?

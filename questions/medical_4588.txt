@@ -1,0 +1,9 @@
+What is the patient's name?
+Where and when did the incident occur?
+What does the patient feel like his injury is?
+What was his consciousness level during the accident?
+What was he doing at the time of injury?
+What is the list of chronic illnesses that he does not have?
+Are there any past injuries or operations mentioned in this passage that would impact on treatment decisions for this one?
+Are there any allergies mentioned in this passage that would impact on treatment decisions for this one?
+How old is the patient stated to be, and are there any medications mentioned in this passage that would affect treatment decisions for this one?

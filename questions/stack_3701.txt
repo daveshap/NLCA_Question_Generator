@@ -1,0 +1,3 @@
+How could you measure the \"goodness\" of a regression?
+What does it mean to penalize?
+How would the likelihood take into account absolute error and standard deviation implicitly?

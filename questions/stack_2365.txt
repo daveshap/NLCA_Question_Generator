@@ -1,0 +1,2 @@
+Does the mob spawner only work when players are around?
+Does it depend on which server it is being used on?

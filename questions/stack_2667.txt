@@ -1,0 +1,4 @@
+what are the maximum buffer zones?
+how is the buffer zone created and calculated?
+what information is needed to calculate the distance between POI and the nearest supermarket?
+in which spatial analysis tool does this task take place?

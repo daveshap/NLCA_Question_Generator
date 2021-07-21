@@ -1,0 +1,6 @@
+What is the name of the patient's preoperative diagnosis?
+What is the date/time of operation?
+What are some side effects from having surgery?
+What were the most difficult parts of the operation?
+How long will it take for the patient to recover from surgery?
+How long before the patients's stitches will come out and when should she see a doctor again to make sure everything is healing properly?

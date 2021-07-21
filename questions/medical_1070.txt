@@ -1,0 +1,5 @@
+What is the cause of the patient's pain?
+Does the patient have arthritic symptoms?
+If so, can he be treated nonoperatively?
+What are the potential complications of surgery and how are they managed?
+What is a good prognosis after surgery?

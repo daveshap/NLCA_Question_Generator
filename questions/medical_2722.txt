@@ -1,0 +1,4 @@
+How is the patient's condition and diagnosis?
+What procedure are the surgeons performing on the patient?
+How was the outcome of the surgery?
+What specific questions or concerns does an observer have about the surgery?

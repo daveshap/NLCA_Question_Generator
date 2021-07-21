@@ -1,4 +1,0 @@
-How will you measure capacitance?
-What do the capacitance readings mean?
-How can you generate these readings using a VNA?
-How should test points be designed in order to get accurate readings of the plane's capacitance.

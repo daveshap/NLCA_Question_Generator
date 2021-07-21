@@ -1,3 +1,0 @@
-What is the result of T-Test between class A and B?
-What does the Bonferroni correction mean?
-How do you determine whether or not there is a significant relationship between various settings?

@@ -1,0 +1,5 @@
+Does the passage contain a question that is not answered by the passage?
+Does the passage contain a statement about something that is not covered in the passage?
+Is there an implication in the passage?
+Are there any inconsistencies in the story as told?
+What does each word mean?

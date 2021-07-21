@@ -1,0 +1,3 @@
+Why are you not using the exact method for getting the upper limit of the estimated failure rate?
+How do you go about determining sample size and power from a Frequentist approach?
+Why is it ok to use Jeffreys Interval instead of clopper Pearson interval from a Bayesian approach to estimate the upper limit of the failure rate?

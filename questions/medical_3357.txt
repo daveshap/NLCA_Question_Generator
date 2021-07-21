@@ -1,0 +1,6 @@
+Why is the patient admitted to the hospital?
+What is the relationship between pneumonia and urosepsis in this case?
+Is dementia related to a medication or some other disease?
+What treatment has been given so far for the fever, diarrhea, confusion, and possible aspiration?
+Has the physician discussed with the daughter about CPR and intubation, should her clinical condition deteriorate?
+Is it appropriate to use ceftriaxone for hypokalemia from prolonged diarrhea when clindamycin has already been given for pneumonia?

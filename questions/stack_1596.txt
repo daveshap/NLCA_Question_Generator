@@ -1,0 +1,5 @@
+What is CANopen?
+What does blocking a CAN message entail?
+What is the difference between blocking all messages and blocking a particular message?
+Why would someone want to block messages from a remote controller?
+What are the kinds of messages that should be blocked/unblocked by the remote controller?

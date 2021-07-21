@@ -1,0 +1,4 @@
+Is the Ubuntu 18.04 not cooperating with Rabbit VCS?
+If not, why doesn't Nautilus show the menu in Rabbit VCS?
+Was installation from the Bionic Beaver PPA successful?
+What procedure is presented on their web page to use with 18.04 and Rabbit VCS integration?

@@ -1,0 +1,4 @@
+What is the maximum score for this game?
+What is the minimum score for this game?
+How do you know if an agent has learned how to play a deterministic game?
+Why would an agent forget how to play a deterministic game?

@@ -1,0 +1,3 @@
+What is the passphrase for?
+What would happen if the passphrase were leaked or damaged?
+If I have a LUKS header backup on some removable media, do I need to record this key?

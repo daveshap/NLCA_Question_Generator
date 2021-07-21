@@ -1,0 +1,3 @@
+What is the maximum number of weapons and armor that can be stored?
+Can all weapons and armor in the game be acquired by a player?
+What happens to gear that is no longer used as the player accumulates more gear?

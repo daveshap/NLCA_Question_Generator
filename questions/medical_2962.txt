@@ -1,0 +1,6 @@
+Who is the patient?
+What is her complaint?
+What does the examination reveal about her neurologic status?
+Was there any evidence of intracranial hypertension or previous hemorrhage?
+What did the Cerebral Angiogram and MRA show?
+What was performed in surgery, and what complication followed?

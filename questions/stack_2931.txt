@@ -1,0 +1,6 @@
+How would I calculate the rolling friction of a sphere?
+What is the relationship between the properties of a solid sphere and sphere's friction?
+How do I find/tune parameters on a physics simulator?
+What is the difference between "rolling" and "spinning" friction?
+How does mass affect friction?
+Why are there different radius sizes in this experiment with mass of 0.1kg and mass of 2.0kg?

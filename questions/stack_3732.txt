@@ -1,0 +1,2 @@
+What is the meaning of "the assumptions of the regression model are satisfied?"
+What is the meaning of "right model"?

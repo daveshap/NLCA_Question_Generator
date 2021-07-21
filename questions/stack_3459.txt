@@ -1,0 +1,2 @@
+How does an observer determine what time limit was set for the CSRF token?
+What is the recommendation for data the user filled out in HTML forms?

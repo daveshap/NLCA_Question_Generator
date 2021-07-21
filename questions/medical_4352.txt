@@ -1,0 +1,4 @@
+What type of brain tumor does the patient have?
+What treatments has the patient already undergone?
+Who is Dr. Y in the Clinic and what treatments does she offer?
+What type of conversation should be made with Dr. Y about the patient's treatment?

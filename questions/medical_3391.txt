@@ -1,0 +1,8 @@
+What is the patient's chief complaint?
+How did the dog bite occur?
+What is the patient's past medical history?
+Is there any family history of liver cancer in the family?
+Is there any indication of a concussion?
+What does "flap" mean in this context (page 4, line 12)?
+Is this flap injury to be expected or was it an accident?
+What are specific recommendations for how to keep wounds clean when recovering from flap injuries?

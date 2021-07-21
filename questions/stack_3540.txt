@@ -1,0 +1,4 @@
+What does the term 'firewall friendly' mean?
+What are ports and what is port 80?
+What is an IP address and how can one be blocked or hacked?
+Does port 80 have security measures in place to prevent hacking?

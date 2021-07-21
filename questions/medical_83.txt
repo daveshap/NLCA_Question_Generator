@@ -1,0 +1,4 @@
+What is the setting of the surgery?
+What procedures were performed?
+How did the patient respond to stimulation and when was the lead in its proper position?
+What complications are associated with this procedure?

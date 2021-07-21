@@ -1,0 +1,4 @@
+How are eigenstates of the position operator different from other operators?
+What is a sine wave?
+Are eigenstates of the position operator continuous?
+What is the difference between a continuous and discrete state?

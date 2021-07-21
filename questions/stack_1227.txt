@@ -1,0 +1,3 @@
+What is the difference between a data warehouse and a relational database?
+Can I put a many to many relationship in a star schema?
+What are the benefits of using a star schema for an organization's data warehouse?

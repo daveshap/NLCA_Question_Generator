@@ -1,0 +1,4 @@
+Is the patient experiencing any chest pain, shortness of breath, PND, ankle swelling, or dizziness?
+What type of workup did this patient undergo for intracranial pathology?
+What does "adequate control" of blood pressure mean?
+Does she have mild signs of heart failure and if so what is her prognosis?

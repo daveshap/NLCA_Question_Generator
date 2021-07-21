@@ -1,0 +1,3 @@
+Why do high voltage power lines need more insulation than a low one?
+Are 240V cables rated at a higher current? If so, why doesn't the lower voltage mean more current and hence require more insulation?
+Doesn't this student know how to read electrical charts or understand what they're trying to say?

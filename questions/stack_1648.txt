@@ -1,0 +1,4 @@
+What is the problem with the LM324 level indicator?
+How does the level indicator compare common input signal?
+What is a "full tank" and "vice versa"?
+What voltage would he need to invert?

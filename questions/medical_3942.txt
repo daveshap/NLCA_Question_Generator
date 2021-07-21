@@ -1,0 +1,7 @@
+What is the presenting diagnosis?
+What is the presence or absence of a secondary diagnosis?
+Who treated the patient in the hospital?
+What procedures were performed to treat the patient?
+Were invasive lines placed and if so, why?
+Were there any complications during treatment?
+Was there a discharge assessment done for potential side effects of treatment and necessary follow up care with referrals given?

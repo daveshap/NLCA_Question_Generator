@@ -1,0 +1,3 @@
+What is the main problem that the author is experiencing?
+Does anyone know how to solve the author's problem?
+How many people use QGIS?

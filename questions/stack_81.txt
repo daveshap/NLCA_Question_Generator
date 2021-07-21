@@ -1,0 +1,4 @@
+Why was the Image Capture trick not working?
+How would deleting the photos from the phone solve the problem of too many photos on the device?
+Is there a way to delete all photos from the device without wiping it and starting over?
+Why did iTunes stop automatically removing old photos and syncing new ones?

@@ -1,0 +1,4 @@
+Why does the author want a GUI application?
+Does he have an app that logs to syslog?
+What is the difference between Console.app and note pad?
+Why does Console.app not show syslog files on OSX?

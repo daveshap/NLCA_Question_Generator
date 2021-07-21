@@ -1,0 +1,6 @@
+What is the size of the right ovary?
+What is the size of the left ovary?
+How long has the patient had pelvic pain?
+Does anything obstruct it (hint: torsion)?
+Is anything seen on ultrasound that may be caused by neoplasm/tumor or a cystic mass?
+What condition does the uterus seem to be in?

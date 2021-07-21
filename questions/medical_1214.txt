@@ -1,0 +1,3 @@
+What is the procedure performed?
+How did the patient fare after surgery?
+What will be the surgical prognosis for this patient?

@@ -1,0 +1,5 @@
+Why must file creation dates from 1990's be moved to 2000?
+What type of software has Y2K issues?
+Why is this an issue for this user, and what would they like to do about it?
+Is there a particular program the user wants help with in modifying the files in the subdirectories?
+Is there a problem with how NFS communicates and transfers data on their network?

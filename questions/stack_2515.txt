@@ -1,0 +1,3 @@
+The main question is what is the best way to do so?
+I have tried to use the Reprojection Layer feature but the coordinates of my layer doesn't change, even if my CRS changed formally. For example: I am creating new project and define the project CRS as Pulkovo1995. Then I load the original layer and everything seems OK. In the next step I use Reprojection Layer and my layer disappears until I change the project CRS to WGS84. But the coordinates of the objects remains the same.
+What is a Shapefile?

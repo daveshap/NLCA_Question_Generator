@@ -1,0 +1,6 @@
+What is the patient's problem?
+What is the patient's history of present illness?
+What other medical problems does the patient have that would impact their care?
+What are the patient's allergies?
+What other medications does the patient take?
+Do you have any information on the patient's childhood history, previous surgeries, and surgical procedures?

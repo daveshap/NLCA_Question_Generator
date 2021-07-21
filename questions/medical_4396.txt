@@ -1,0 +1,5 @@
+What is the chief complaint?
+What are the patient's past medical history and social history?
+What symptoms does the patient have?
+What tests were performed in order to help with diagnosis of possible illness?
+Is it possible that the patient has a severe infection, such as pneumonia or C. difficile infection with possible pseudomembranous colitis?

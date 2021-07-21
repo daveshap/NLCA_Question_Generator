@@ -1,0 +1,4 @@
+How do I connect a USB 2.0 to HDMI cable?
+Will a USB 1.1 work with a 3.0 device?
+How can I get my computer to read the USB 2.0 to HDMI cable?
+What would be the procedure if it works for Ubuntu 17.10?

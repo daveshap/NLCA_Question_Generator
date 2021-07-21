@@ -1,0 +1,3 @@
+Does macOS work with 144 Hz displays?
+If not, can a MacBook be set to output video at 144 Hz?
+What will happen if I plug in an external 144 Hz display?

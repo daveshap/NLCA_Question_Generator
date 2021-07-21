@@ -1,0 +1,4 @@
+What is Compiz?
+How does it relate to resizing a window?
+What would be the outcome of resizing a window with Compiz?
+How would someone resize and place a specific window using Compiz via command line or Java package on a specific input; what are the steps involved?

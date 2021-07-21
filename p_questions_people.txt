@@ -1,8 +1,0 @@
-Generate a list of the most important questions about the people in the following passage:
-
-PASSAGE:
-<<TEXT>>
-END PASSAGE
-
-PEOPLE QUESTIONS:
--

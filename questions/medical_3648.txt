@@ -1,0 +1,5 @@
+What is the patient's name?
+What are the post procedure diagnoses for this colonoscopy?
+How long ago was the history of colon polyps and partial colon resection?
+What procedures were performed in the procedure?
+What recommendations did the gastroenterologist make for this patient after completing her evaluation of this case?

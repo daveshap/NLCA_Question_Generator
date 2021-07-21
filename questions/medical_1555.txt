@@ -1,0 +1,3 @@
+The patient has no symptoms of chest pain at rest.
+The EKG response to stress is abnormal, and the perfusion imaging is not.
+Ischemia was detected in the region of the apex and inferior wall.

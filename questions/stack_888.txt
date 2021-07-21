@@ -1,0 +1,4 @@
+The article has not been updated in recent years, so why does the computer have issues booting with Ubuntu?
+Is this a RAM issue (because of the new process)?
+How can the installer get out of the cycle of shutting down?
+Why would the computer automatically shut down when it doesn't have sufficient power or memory?

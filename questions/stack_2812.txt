@@ -1,0 +1,7 @@
+How do these terms effect the force of gravity?
+What is the relation between these two components?
+How does pressure affect gravity?
+If forces are applied in a direction perpendicular to a surface, what is the relationship between tensile loading and shear stress?
+If forces are applied parallel to a surface, what is the relationship between tensile loading and shear stress?
+Can these values be negative or positive in FRW context or elastic ball example?
+If they can be both, does one create an attractive or repulsive gravitational field?

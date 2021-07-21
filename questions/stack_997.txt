@@ -1,0 +1,4 @@
+What is the possible issue with Grub 2.2 and MBR?
+Did this user have Ubuntu installed first, then Windows 10?
+How has the boot repair attempts been going for this user?
+Why does it ask for a hard disk driver in order to be partitioned?

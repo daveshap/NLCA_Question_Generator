@@ -1,0 +1,5 @@
+What are the unequal sample sizes?
+Why is the hypothesis being tested?
+What is a Monte Carlo resampling?
+What are some of the potential problems with using a Monte Carlo resampling to improve the size of a sample?
+How could these problems be overcome or remedied?

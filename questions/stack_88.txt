@@ -1,0 +1,3 @@
+What does this mean for LDAP services?
+Is it possible to install LDAP on a regular mac running High Sierra?
+Could my own iMac be the LDAP server for my organization in other words?

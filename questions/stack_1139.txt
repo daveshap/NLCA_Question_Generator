@@ -1,0 +1,2 @@
+How can an inaccurate estimated plan and an actual plan affect a query's performance?
+What are the various ways in which statistics can be outdated?

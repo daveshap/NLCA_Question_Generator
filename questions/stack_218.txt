@@ -1,0 +1,4 @@
+When did the error message show up?
+What devices are plugged into the USB ports?
+Have you tried plugging in a keyboard and mouse from a different manufacturer to test if it's a hardware issue?
+Are any USB hubs or other peripheral devices plugged into the same port as the keyboard and mouse you are trying to use?

@@ -1,0 +1,4 @@
+What did the patient have when he was admitted?
+What was the diagnosis made at discharge?
+Is this a chronic condition or an acute illness?
+What does this illness mean for prognosis?

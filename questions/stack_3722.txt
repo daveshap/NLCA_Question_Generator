@@ -1,0 +1,4 @@
+What is the Likert scale?
+What do respondents answer on the Likert scale?
+How can the Fisher exact test help with interpreting data collected with a 5 point Likert scale?
+What are the benefits and limitations of running a 2x2 matrix of data instead of using all of the available data points (5x2)?

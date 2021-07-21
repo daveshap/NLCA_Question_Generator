@@ -1,0 +1,5 @@
+What is the rotation of a body?
+How would an observer know the direction of rotation of a body?
+What is a net torque?
+What does the net torque on a body do?
+Does this passage tell you how to find out whether the rotation of the body is clockwise or anticlockwise?

@@ -1,0 +1,3 @@
+What is the goal of the circuit?
+What type of device does it concern (i.e. a computer, an electric circuit, etc.)?
+What is triggering input with varying input voltages?

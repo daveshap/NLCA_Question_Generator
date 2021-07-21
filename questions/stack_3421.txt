@@ -1,0 +1,4 @@
+What is the function of the database?
+What kind of user credentials does the application need?
+Is there a server that can provide this information to the application?
+Why is there no internet connection to the application?

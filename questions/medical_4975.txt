@@ -1,0 +1,5 @@
+What are the patient's complaints and symptoms?
+What is the patient's past history?
+How did she get to where she is now?
+What treatments have been attempted so far?
+Why does the doctor suspect MI as opposed to non-cardiac arm pain?

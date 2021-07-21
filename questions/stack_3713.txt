@@ -1,0 +1,3 @@
+What is the difference between a single polynomial neuron vs multiple perceptron?
+Is there any specific reason to prefer using a neural network with 6 hidden neurons rather than one single neuron representing a given function?
+Is it harder to optimize the latter one?

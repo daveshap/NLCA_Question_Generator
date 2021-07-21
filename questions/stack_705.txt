@@ -1,0 +1,4 @@
+What is a windows and Ubuntu?
+Are windows and Ubuntu wireless firmware the same?
+What are the advantages of using a Windows computer for installing/updating wireless firmware?
+Can I install the Windows wireless firmware through Kubuntu without uninstalling it first?

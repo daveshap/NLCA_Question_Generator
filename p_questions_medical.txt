@@ -1,8 +1,0 @@
-Write a list of medical questions that a doctor would ask about the following passage:
-
-PASSAGE:
-<<TEXT>>
-END PASSAGE
-
-DOCTOR MEDICAL QUESTIONS:
--

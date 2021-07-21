@@ -1,0 +1,7 @@
+What joint problems does the patient have?
+Why is the patient coming in to see the doctor?
+What has been done about these joint problems before?
+Does this patient suffer from any other medical conditions, such as diabetes mellitus type II?
+What medications does the patient take and what are the effects of these medicines?
+Does this patient smoke and drink alcohol, especially when considering her medical conditions (diabetes mellitus type II, arthritis)?
+Is there any family history of heart disease, cancer, or diabetes that could be indicative of possible related conditions to those seen in this passage?

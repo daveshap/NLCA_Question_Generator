@@ -1,0 +1,4 @@
+What is the size of the patient's left atrium and what is its diameter?
+What are the measurements of the size of the patient's ventricles?
+What is the function of each chamber, and what are any signs of problems with that function?
+What possible things could be causing pressure to go up in the upper part of the lung?

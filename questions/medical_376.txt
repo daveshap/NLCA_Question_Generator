@@ -1,0 +1,4 @@
+What is the speaker's diagnosis?
+What are the speaker's treatment options?
+What is the patient consenting to in the passage?
+What procedure did the speaker perform?

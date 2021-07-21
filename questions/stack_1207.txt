@@ -1,0 +1,5 @@
+What is the Azure Data Studio?
+How does Azure Data Studio work?
+What does the MDF file stand for and what do I need to know about it?
+What are some advantages of using Azure Data Studio?
+How can this approach be used in an organization setting?

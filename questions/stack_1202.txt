@@ -1,0 +1,5 @@
+What is the scope of this observation?
+What database structures are being observed?
+How much data will need to be synced?
+What improvements can be made to the current workflow?
+Does ETL or CDC provide a more efficient and robust solution?

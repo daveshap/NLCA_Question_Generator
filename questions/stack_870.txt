@@ -1,0 +1,3 @@
+What is Ubuntu Server?
+What is the purpose of cloud-init and why does the author seem to think it might be unnecessary?
+Can an observer get rid of cloud-init without breaking anything?

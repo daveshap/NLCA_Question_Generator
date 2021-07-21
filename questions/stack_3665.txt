@@ -1,0 +1,3 @@
+What is entropy?
+Why is this being calculated?
+What does the passage describe?

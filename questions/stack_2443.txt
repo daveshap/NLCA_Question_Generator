@@ -1,0 +1,4 @@
+What is the QGIS project?
+Is the question about which projection best fits specific parameters or which projection to use for a small scale project?
+How does the observer's area of interest relate to specific areas like continents, countries, or parts of a country?
+Why would an equal-area projection be most appropriate for marine protected areas?

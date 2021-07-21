@@ -1,0 +1,3 @@
+How is the sensitive addresses collected in the first place?
+What platforms are used for the collection?
+Is the geocoding being done locally? If not, what is stopping someone from using an API to get the address data?

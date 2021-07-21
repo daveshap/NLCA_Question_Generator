@@ -1,0 +1,2 @@
+Is there a way to get the installation wizard to show all of the drives?
+Can I use all of my windows drives after installing Ubuntu?

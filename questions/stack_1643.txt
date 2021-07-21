@@ -1,0 +1,4 @@
+What is the device that will be used to determine what type of battery is being tested?
+What does "Internal Resistance" mean?
+What does "throttling" mean?
+Why would a battery be getting warm or hot and what are its consequences if it does?

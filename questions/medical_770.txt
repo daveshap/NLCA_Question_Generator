@@ -1,7 +1,0 @@
-What is your name?
-How old are you?
-What year did you graduate from high school or college?
-What is your occupation/occupation history/current occupation?
-Are you married, single, or divorced?
-How many children do you have and how old are they?
-What language do you speak at home?

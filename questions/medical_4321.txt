@@ -1,0 +1,4 @@
+What is the nature of his heart disease?
+What medications are he currently taking and what medications did the doctor want him to start taking?
+What other medical problems does the patient have?
+Is the patient on Medicaid? If not, how can he get coverage to pay for medical care?

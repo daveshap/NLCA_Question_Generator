@@ -1,0 +1,3 @@
+What is a polynomial regression?
+What does it mean for a polynomial regression to have predictive value?
+How can an observer check which of the many curves has the most predictive value?

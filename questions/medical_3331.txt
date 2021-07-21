@@ -1,0 +1,4 @@
+What is the patient's name?
+What are the most likely diagnoses for the patient?
+How would you relieve their symptoms?
+What precautions need to be taken, if any?

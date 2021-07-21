@@ -1,0 +1,4 @@
+What is the function of "ArcGIS"?
+What information is contained in each line of the text file?
+Can the text file be read line by line?
+Why can't get field tool be used?

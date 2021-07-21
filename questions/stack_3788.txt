@@ -1,0 +1,5 @@
+What is the definition of "forecasting"?
+When is the data being forecast for?
+What type of data set is being used for forecasting?
+How often is the forecast updated?
+How did you come up with the forecasted number (e.g. how much sales were there during a specific day)?

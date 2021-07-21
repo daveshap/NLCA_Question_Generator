@@ -1,0 +1,6 @@
+What is the primary surgical procedure being performed?
+What are the pre-operative diagnoses and post-operative diagnoses?
+What was used for anesthesia?
+How much blood loss was estimated?
+What were the intraoperative findings?
+What is the procedure description?

@@ -1,0 +1,5 @@
+What disease, condition, or disorder might the patient have?
+Who did the patient report their black tarry stools and weak spell to be related to?
+What medications did the patient admit to taking?
+How many days had passed since the last time the patient took ibuprofen?
+How would the pain in her stomach been affecting her day-to-day life in the last 48 hours before being admitted to ER for gastrointestinal bleed?

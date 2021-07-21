@@ -1,0 +1,4 @@
+What was the patient's diagnosis?
+What surgical procedure was done on the patient?
+Were there any complications with surgery?
+How was the tumor removed from the brain?

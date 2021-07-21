@@ -1,0 +1,4 @@
+What is the meaning of confidence interval?
+What is the meaning of p-value?
+What are the differences between success rate and success rate with CI?
+How do you calculate the Fisher exact t-test p-value?

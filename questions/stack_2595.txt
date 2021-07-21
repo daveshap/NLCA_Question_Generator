@@ -1,0 +1,3 @@
+What is the answer to?
+What does QGIS 3 stand for?
+Where is the Switch to Table View button in QGIS 3?

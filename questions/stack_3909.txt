@@ -1,0 +1,4 @@
+Why does the author mention structural breaks?
+What is wrong with using a dummy variable as an exogenous variable to solve the problem?
+What are two alternative solutions to incorporating structural breaks in a VAR model?
+How long did the 2007-2008 financial crisis take place?

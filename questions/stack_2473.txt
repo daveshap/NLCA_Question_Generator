@@ -1,0 +1,3 @@
+What does "Map rotation" do?
+What are the X min, Y min, X max, and Y max extents?
+How do I move the map in print composer?

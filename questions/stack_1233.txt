@@ -1,0 +1,3 @@
+What is an example of a near-repeat?
+What does the term “eliminate the second value” mean?
+How would you make sure that only one value (the first) remains after the near-repeat is eliminated?

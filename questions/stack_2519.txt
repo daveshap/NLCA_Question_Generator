@@ -1,0 +1,3 @@
+Why is the answer to a correlation coefficient seemingly different in the passage than an observer might expect?
+What does a "correlation matrix" and "p-value" mean?
+How does one go about obtaining statistical significance and p-value?

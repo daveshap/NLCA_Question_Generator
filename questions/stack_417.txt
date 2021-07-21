@@ -1,0 +1,3 @@
+Why does the device still show 14.04 when it was updated?
+What browser should the person download?
+Is their computer able to be updated to 16.04?

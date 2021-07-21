@@ -1,0 +1,4 @@
+What is the diagnosis of the patient?
+What complications occurred for the patient?
+What devices were used during the operation?
+What surgical procedure was performed and what did it entail?

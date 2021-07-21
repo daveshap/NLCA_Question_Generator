@@ -1,0 +1,3 @@
+Can you use correlation coefficients in non linear cases?
+Is there a relation between each of the independent variables and the dependent variable, is this relation linear or not?
+Can you use PCC in non linear cases?

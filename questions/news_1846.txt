@@ -1,0 +1,4 @@
+What is a grid?
+What is Sun Grid, specifically?
+How does it differ from other grid computing systems?
+What are the implications of this system for future energy needs?

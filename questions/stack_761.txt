@@ -1,0 +1,3 @@
+is this a requirement or an example?
+where is the server located geographically?
+why does the writer need to change the port on owncloud from 443 to 8443?

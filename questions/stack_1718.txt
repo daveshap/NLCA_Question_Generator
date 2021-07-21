@@ -1,2 +1,3 @@
-Where is the light activated switch located?
-What type of power supply do you need to use?
+What is the purpose of the circuit?
+What was the writer's experience level when they wrote this passage?
+How to connect the positive/negative wires to the power supply.

@@ -1,0 +1,5 @@
+What are the person's requirements?
+What common viewers do they use?
+If the user is using LibreOffice to view PDFs, how does this text not being continuous work in relation to copying text from the PDF?
+Are they trying to create an online document for some reason?
+Is this about converting PDFs to TXT or Word documents?

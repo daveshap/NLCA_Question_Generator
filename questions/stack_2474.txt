@@ -1,0 +1,2 @@
+How do you use ArcPy to extract a specific category from a shapefile?
+What does the user mean by "labeled Kansas_pointOfInterest.shp"?

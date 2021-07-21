@@ -1,2 +1,0 @@
-What does the feeder wire need to match the main breaker?
-What if there is no load on the subpanel so you could use a smaller wire gauge (AWG 2) instead of matching it to the main panel's main breaker?

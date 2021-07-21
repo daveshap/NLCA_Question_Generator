@@ -1,0 +1,4 @@
+What is the best way to set up wallpaper changing on the lock screen?
+How do I set up automatic wallpaper changing on the lock screen using Variety?
+What is Variety?
+What is Ubuntu 18.04 DE Gnome?

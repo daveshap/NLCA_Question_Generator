@@ -1,0 +1,5 @@
+What is the meaning of "data munging"?
+Why would I need to reach First Normal Form?
+Is there another term for the process of getting data to First Normal Form?
+What is 1NF?
+What is the opposite of normal form?

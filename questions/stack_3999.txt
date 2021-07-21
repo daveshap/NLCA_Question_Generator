@@ -1,0 +1,2 @@
+Can variational autoencoders be used as a denoising algorithm?
+Would the stochasticity of variational autoencoders prevent them from being successful as a denoising algorithm?

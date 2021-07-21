@@ -1,0 +1,3 @@
+what is the name of the account on the VM?
+what Linux distribution is installed?
+how was the user added to the group on the VM?

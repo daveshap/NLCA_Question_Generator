@@ -1,5 +1,0 @@
-What is the patient's diagnosis?
-What surgeries is the patient scheduled to undergo?
-Does the patient have any known allergies to medication, foods, or other allergens?
-What are the possible risks associated with this procedure?
-Can you explain the procedure in simpler terms, such as what it involves and how it will be done?

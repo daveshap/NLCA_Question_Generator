@@ -1,0 +1,4 @@
+What is the data used for this regression?
+What is the form of the model being looked at?
+What does a female person refer to in this context?
+How can I reverse sex as a variable and have both variables interact to predict wage?

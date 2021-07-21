@@ -1,7 +1,0 @@
-Evaluate the emotional valence, mood, and needs of the following passage. Write a detailed summary:
-
-PASSAGE:
-<<TEXT>>
-END PASSAGE
-
-EMOTIONAL SUMMARY:

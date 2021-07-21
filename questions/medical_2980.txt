@@ -1,0 +1,4 @@
+What is the patient's problem?
+How would you treat this patient?
+How much of a risk does the patient face in regards to his chronic renal insufficiency?
+What treatments are available for this issue?

@@ -1,0 +1,4 @@
+What are the patient's vital signs?
+Does the patient have any head, eye, ear, neck, heart, lung, or abdominal abnormalities?
+Is there any swelling in the patient's joints or muscles?
+Is there any neurological abnormality that would cause lack of muscle coordination or gait disturbance?

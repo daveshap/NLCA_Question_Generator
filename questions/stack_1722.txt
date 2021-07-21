@@ -1,0 +1,3 @@
+What is the input signal to the comparator?
+What is the output signal from the comparator?
+How does LTSpice control it as a comparator?

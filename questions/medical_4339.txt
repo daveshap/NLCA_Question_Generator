@@ -1,0 +1,5 @@
+What does the patient's daughter report happened this morning?
+What is the patient's chief complaint?
+What are the allergies, medications, past medical history, social history, family history of this patient?
+Does the patient have any other symptoms that should be noted?
+Has the patient had any previous similar attacks?

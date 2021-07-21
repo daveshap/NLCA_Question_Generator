@@ -1,0 +1,7 @@
+What is the gestational age of the pregnant patient?
+What are the intrauterine and postoperative diagnoses?
+Did the patient deliver vaginally?
+How many times was the epidural administered?
+What complications developed during surgery?
+What were the baby's Apgars scores and cord clamping status, at birth and after delivery?
+What postoperative treatment is being provided to both mother and baby following this delivery?

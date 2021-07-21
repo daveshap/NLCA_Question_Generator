@@ -1,4 +1,0 @@
-What OS do you use?
-What version of Ubuntu are you running?
-What should be the name of your account?
-Are there any special steps to take to ensure all software installed is compatible with your Linux distribution?

@@ -1,0 +1,4 @@
+How does the old SMB server name come up when connecting to iTunes?
+What does it mean for iTunes if the old SMB server is unavailable?
+How would clearing all recent connections in the "Connect to Server" dialog help this situation?
+How would deleting obsolete keychain entries in "SMB Settings" affect this situation?

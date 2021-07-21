@@ -1,0 +1,4 @@
+is there any other content on the screen?
+does anything show up when you type on the keyboard or click on the mouse?
+is there a dialog box or web page where Ubuntu 16.04.4-(Mac)-(Live USB with persistence)-(Created with UNETBootin) is not responding?
+what do you mean by "Ubuntu not working"?

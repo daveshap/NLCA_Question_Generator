@@ -1,0 +1,3 @@
+What is the impact of leaving disabled root key on AWS instance?
+Does someone's disabled root key pose a threat to the server?
+What should be done about an obsolete or disabled root key?

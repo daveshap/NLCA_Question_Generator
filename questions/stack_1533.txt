@@ -1,0 +1,5 @@
+What do you want to control?
+Do you have a "small arduino-like board?" If so, what sort of board?
+What device is expecting the momentary signal from the toggle switch?
+What exactly are you looking for when it comes to a pure hardware alternative?
+This is unrelated, but which language is the text written in?

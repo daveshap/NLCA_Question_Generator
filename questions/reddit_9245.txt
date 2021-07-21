@@ -1,0 +1,5 @@
+Who is the speaker?
+What did they get a job in?
+How much are they paid?
+How many hours does the job require?
+What qualifications do they have for their job?

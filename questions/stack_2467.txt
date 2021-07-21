@@ -1,0 +1,4 @@
+What file type is being saved?
+What kinds of features are disappearing from the map?
+Does a different file type produce a map with different features or no errors?
+What version of QGIS is the observer using?

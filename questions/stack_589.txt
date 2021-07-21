@@ -1,3 +1,4 @@
-What is the user's goal?
-What else could be related to this user's question?
-Is it possible for the user to accomplish their goal in a different way, or with an alternate solution?
+What Linux OS are you using?
+Do you know what a terminal is?
+What do you mean by a console?
+Did you read the man page for gnome-terminal or xterm?

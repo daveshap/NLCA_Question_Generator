@@ -1,0 +1,4 @@
+How full is the SSD, and how many gigabytes are available?
+How much RAM does the user have, and how much of that has been used in use?
+What browser are they using?
+What time frame was this happening over?

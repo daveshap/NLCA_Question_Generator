@@ -1,0 +1,4 @@
+Did the procedure go well?
+What medications did the patient receive?
+Does the vasovasostomy have a normal appearance?
+Did the procedure take longer than anticipated?

@@ -13,13 +13,9 @@ seed()
 ctxdir = 'C:/RavenFinetune/contexts/'
 outdir = 'C:/RavenFinetune/questions/'
 files = os.listdir(ctxdir)
-files = [i for i in files if 'dialog' in i]    # filter list: dialog, medical, reddit, stack, news
-#prompt_name = 'p_questions_medical.txt'
-#prompt_name = 'p_questions_legal.txt'
-#prompt_name = 'p_questions_moral.txt'
+files = [i for i in files if 'stack' in i]    # filter list: dialog, medical, reddit, stack, news
 prompt_name = 'p_questions_important.txt'
-#prompt_name = 'p_questions_people.txt'
-files = sample(files, 96)
+files = sample(files, 1)
 print(files)
 
 # davinci-instruct

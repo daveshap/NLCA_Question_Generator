@@ -1,0 +1,5 @@
+Is the patient experiencing any headache pain?
+What does he mean by 'intermittent radiating pain down his right leg'?
+Is he able to walk without pain?
+Can he drive or use his right arm?
+What is the doctor suggesting about a two-level ACDF for C4 and C5?
