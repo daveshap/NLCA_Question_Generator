@@ -1,0 +1,3 @@
+Could you walk me through the process of setting up a VM?
+What's your experience with installing it on Ubuntu Server?
+What's the recommended bandwidth for remote users?

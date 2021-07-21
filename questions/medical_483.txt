@@ -1,0 +1,9 @@
+What is the patient's diagnosis?
+Where did the accident occur?
+What medical procedure is the doctor performing?
+How long will the surgery take?
+Will there be bleeding?
+Is there a tourniquet on the patient's arm?
+What complications can happen after this surgery and what are they?
+What are some post operative risks and benefits of surgery?
+Who signed the consent form before surgery, and what were their feelings on pursuing surgery in detail discussed before signing consent form?

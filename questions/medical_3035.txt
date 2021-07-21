@@ -1,0 +1,5 @@
+What is the date and location of the examination?
+What is the problem indicated in the exam?
+What were the findings of this examination?
+Was there any sign of an intracranial or cervical spine injury?
+If so, what was it and how does it compare to other findings?

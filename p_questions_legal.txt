@@ -1,4 +1,4 @@
-Write a list of legal questions about the following passage:
+Write a list of legal questions that a lawyer might ask about the following passage:
 
 PASSAGE:
 <<TEXT>>

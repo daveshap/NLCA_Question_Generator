@@ -1,0 +1,5 @@
+What is the source of the patient's breast mass?
+What were the findings from a fine needle aspiration?
+What kind of general anesthesia was used during surgery?
+What did the surgeon find when they examined the breast mass closely?
+What is the patient's diagnosis after surgery?

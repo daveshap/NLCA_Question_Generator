@@ -1,0 +1,8 @@
+What medications does the patient have?
+What is the patient's family history?
+What other medical conditions does the patient have?
+Does the patient take any prescription medications not listed in this passage?
+How is her past medical history relevant to her current presentation?
+What did you make of her review of systems and physical examination results?
+What lab work was done and what were the results of these lab tests?
+What are some potential etiologies for her hypertension?

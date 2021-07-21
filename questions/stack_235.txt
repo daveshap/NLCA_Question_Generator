@@ -1,0 +1,6 @@
+What OS did you originally have installed on your Macbook Pro?
+How did you know the SSD was failing?
+What type of hard drive do you plan to replace the old one with?
+What OS are you trying to install now that it is failing?
+Did anything change when you tried to install OS High Sierra instead of upgrading from what was already installed on your computer?
+Why do you think upgrading from what is already installed on your computer would not work at this point in time?

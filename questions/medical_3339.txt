@@ -1,0 +1,9 @@
+What is the patient's race?
+How many races are there?
+What is the patient's age?
+Has the patient had any heart disease before now?
+What were the symptoms at first sign of illness?
+Is the patient a current smoker, or have they ever smoked cigarettes in their life?
+What medications does the patient take for smoking cessation, if applicable?
+Does anything make their breathing sound different such as asthma or an allergic reaction to a food or drug allergy?
+Does anything lower their blood pressure, such as antidepressants or antihypertensives that lower blood pressure?

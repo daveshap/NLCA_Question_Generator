@@ -1,0 +1,5 @@
+Did any of the medical providers violate HIPAA law?
+Was anything done to protect the patient's privacy?
+Did the patient give consent to reveal this information?
+If this were a highly contagious disease, would it still be OK to disclose all of this info about her case?
+How much is known about the patient before she was admitted to the hospital?

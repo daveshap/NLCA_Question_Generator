@@ -1,0 +1,7 @@
+What prompted the patient to go to the hospital?
+Is the patient taking any medications that could have contributed to this problem?
+What is known about his past history?
+Did he have abdominal surgery in the past, and if so, what kind?
+Does he have a history of smoking or drinking alcohol?
+Does he know anything about his family's medical history?
+What is his social history like (employment, marital status)?

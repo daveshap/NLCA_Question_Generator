@@ -13,8 +13,13 @@ seed()
 ctxdir = 'C:/RavenFinetune/contexts/'
 outdir = 'C:/RavenFinetune/questions/'
 files = os.listdir(ctxdir)
-files = [i for i in files if 'stack' in i]  # filter list
-files = sample(files, 20)
+files = [i for i in files if 'dialog' in i]    # filter list: dialog, medical, reddit, stack, news
+#prompt_name = 'p_questions_medical.txt'
+#prompt_name = 'p_questions_legal.txt'
+#prompt_name = 'p_questions_moral.txt'
+prompt_name = 'p_questions_important.txt'
+#prompt_name = 'p_questions_people.txt'
+files = sample(files, 96)
 print(files)
 
 # davinci-instruct
@@ -25,7 +30,7 @@ print(files)
 
 
 def load_prompt(filename, payload):
-    with open(filename, 'r', encoding='utf-8') as infile:
+    with open('C:/RavenFinetune/%s' % filename, 'r', encoding='utf-8') as infile:
         body = infile.read()
         body = body.replace('<<TEXT>>', payload)
         return body
@@ -55,10 +60,10 @@ for f in files:
     try:
         with open(ctxdir + f, 'r', encoding='utf-8') as infile:
             context = infile.read()
-        prompt = load_prompt('C:/RavenFinetune/p_questions_important.txt', context)
+        prompt = load_prompt(prompt_name, context)
         print('\n---------------------\n', prompt)
         questions = completion(prompt)
-        print('\n', questions)
+        print('\n---------------------\n', questions)
         with open(outdir + f, 'w', encoding='utf-8') as outfile:
             outfile.write(questions)
     except Exception as oops:

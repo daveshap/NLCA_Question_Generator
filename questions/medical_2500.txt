@@ -1,0 +1,5 @@
+What did the patient undergo?
+What risk factors does he have for his health condition?
+Does the condition carry risks other than the risk factors mentioned in the passage?
+What medications does he need to take?
+What is his current status?

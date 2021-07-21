@@ -1,8 +1,8 @@
-INSTRUCTIONS: Write a list of the most important questions to ask about the following passage:
+Write a list of the most important and salient questions an observer would ask about the following passage:
 
 PASSAGE:
 <<TEXT>>
 END PASSAGE
 
-IMPORTANT QUESTIONS:
+IMPORTANT OBSERVER QUESTIONS:
 -

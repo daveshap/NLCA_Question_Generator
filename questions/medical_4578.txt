@@ -1,0 +1,5 @@
+What is the patient's diagnosis?
+What does the patient's MRI show?
+Is it likely that the symptoms are being caused by neuropathic pain from a neck injury?
+Does the patient's MRI show any other conditions that might be causing his symptoms?
+Does the patient have any other neurological conditions or concerns?
