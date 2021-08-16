@@ -14,7 +14,7 @@ for f in files:
         questions = infile.read()
     with open(ctxdir + f, 'r', encoding='utf-8') as infile:
         context = infile.read()
-    prompt = '\nQUESTIONS:' % context
+    prompt = '%s\nQUESTIONS:' % context
     info = {'prompt': prompt, 'completion': questions}
     data.append(info)
 
