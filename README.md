@@ -8,14 +8,14 @@ Generating good questions is the root of curiosity and learning. By asking follo
 
 You start with a context. In this case, a context is a scenario, story, article, or dialog. This context then has questions associated with it. This forms the training data for the finetuned model. Here's an example context:
 
-> Does anyone else's stomach gets upset when anxious? My stomach always begins to ache when anxious. At times I have to excrete too. Sometimes it is painful.
+- Does anyone else's stomach gets upset when anxious? My stomach always begins to ache when anxious. At times I have to excrete too. Sometimes it is painful.
 
 And here's an example set of questions:
 
-> Are you constantly anxious?
-> What happens when you're anxious?
-> How often does this happen?
-> Does anything else trigger your anxiety?
+- Are you constantly anxious?
+- What happens when you're anxious?
+- How often does this happen?
+- Does anything else trigger your anxiety?
 
 Here's what the same thing looks like as training data:
 
@@ -32,7 +32,7 @@ I wrote a file called `finetune.py` that contains a few functions to help speed 
 ```python
 from finetune import *
 file_upload('questions.jsonl')
-finetune_model('<fileid returned from file_upload command>')
+finetune_model('<fileid returned from file_upload command-')
 finetune_list()
 ```
 
@@ -44,27 +44,27 @@ I wrote a quick demo script called `test_finetune.py`. You'll need to populate i
 
 Context:
 
-> So guys I have this crush on this boy and he's so dumb but I love him. His name is Roger and he's the quarterback of the team.
+- So guys I have this crush on this boy and he's so dumb but I love him. His name is Roger and he's the quarterback of the team.
 
 Questions:
 
-> What is the narrator's name?
-> How old is the narrator?
-> What team does the narrator play on?
-> What is the narrator's relationship to Roger?
-> Does the narrator have a crush on Roger?
-> What is Roger's last name?
-> Where does Roger play on the team?
-> What is Roger's position on the team?
-> Does the narrator have any other friends on the team?
-> Does the narrator have any other crushes besides Roger?
-> What is the name of the school that the narrator attends?
-> What is the name of the team that Roger plays for and what position does he play?
-> Does the narrator have any brothers or sisters?
-> Does the narrator go to a public or private school?
-> What is the name of the city that the narrator lives in or where they live?
-> What sports does the narrator play?
-> Does the narrator have any brothers or sisters that play on the team?
+- What is the narrator's name?
+- How old is the narrator?
+- What team does the narrator play on?
+- What is the narrator's relationship to Roger?
+- Does the narrator have a crush on Roger?
+- What is Roger's last name?
+- Where does Roger play on the team?
+- What is Roger's position on the team?
+- Does the narrator have any other friends on the team?
+- Does the narrator have any other crushes besides Roger?
+- What is the name of the school that the narrator attends?
+- What is the name of the team that Roger plays for and what position does he play?
+- Does the narrator have any brothers or sisters?
+- Does the narrator go to a public or private school?
+- What is the name of the city that the narrator lives in or where they live?
+- What sports does the narrator play?
+- Does the narrator have any brothers or sisters that play on the team?
 
 This list is a bit ridiculous but you can see how it really took the idea of asking questions and ran with it. These questions can be used for conversational purposes, or for searching a database with information about the narrator. For instance, imagine that you have a personal assistant that has recorded all previous conversations with you. These kinds of questions can be used internally for the information assistant to recall the correct details and hold a realistic conversations. Alternatively, these questions can be used to have a real-time conversation.
 
