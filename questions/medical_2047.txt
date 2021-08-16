@@ -1,0 +1,7 @@
+What is the gender and age of the patient?
+What is the location of the subperiosteal abscess?
+What are any surgical related complications?
+How was the abscess treated?
+When was the procedure performed, and by whom?
+Was there any anesthetic administered in this case? If so, what type of anesthesia was administered and how much time elapsed between administration and surgery. What type of anesthesia was used to induce general anesthesia in this case.
+Was the patient's white count dropping steadily after surgery or did it rise again? Did their fever also decrease with each repeat surgery or did it return to a high fever while still receiving treatment?

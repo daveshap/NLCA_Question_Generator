@@ -1,0 +1,6 @@
+How often does the patient come in for a physical?
+What is his hemoglobin level?
+What are his blood pressure and pulse readings?
+Where does he smoke cigarettes from, or where does he chew tobacco?
+Does he take any inhalers?
+What is the patient's current size and weight?

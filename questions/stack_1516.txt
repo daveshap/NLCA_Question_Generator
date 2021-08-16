@@ -1,3 +1,6 @@
 Is the voltage output a DC or AC voltage?
 How does the supply regulate current and voltage when attached to an active circuit?
 Does the PSU have a current limit if no load is connected?
+Why are there current and voltage limits in a DC bench power supply?
+Why does a DC PSU have a low output voltage limit, usually in the range of 18V24V?
+When we short the terminals of the power supply, why does the output voltage on the supply approach zero? If there is no component attached, shouldn't there be zero voltage drop across the terminals, leaving the output voltage the same as if the output was not shorted?

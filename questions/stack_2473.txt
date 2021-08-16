@@ -1,3 +1,7 @@
 What does "Map rotation" do?
 What are the X min, Y min, X max, and Y max extents?
 How do I move the map in print composer?
+How are the four extents related to the map's current orientation?
+Where on the map is the viewer actually seeing?
+What does it mean that the X axis and Y axis have been rotated 45 degrees?
+Why can't the observer see the whole rotated map in Print Composer?

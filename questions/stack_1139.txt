@@ -1,2 +1,8 @@
 How can an inaccurate estimated plan and an actual plan affect a query's performance?
 What are the various ways in which statistics can be outdated?
+Why do the outdated statistics degrade a query performance?
+1. What does "The outdated statistics cause generating an inaccurate estimated plan" mean?
+2. Why do these inaccurate estimates have such a significant effect on the end result of a query run?
+How does this happen?
+3. Is there any way to prevent old statistics from degrading the performance of queries?
+The question: Why to bother about outdated stats if SQL Server can create accurate actual execution plan (by Storage Engine) when it finds out that data has been changed? How can the difference between the estimated and actual plan influences the query performance?

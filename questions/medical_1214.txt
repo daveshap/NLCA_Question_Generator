@@ -1,3 +1,11 @@
 What is the procedure performed?
 How did the patient fare after surgery?
 What will be the surgical prognosis for this patient?
+What are the diagnoses?
+What procedure is being performed?
+Where will the procedure be done?
+When did the patient first experience symptoms of pain?
+How was this patient diagnosed with shoulder impingement syndrome?
+Who is performing the operation?
+What were the findings in the subacromial region of the left shoulder?
+What are the expected surgical prognosis for this patient if surgery is done successfully and healing occurs according to plan?

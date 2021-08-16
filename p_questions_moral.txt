@@ -1,0 +1,8 @@
+Write a list of moral and ethical questions an observer would ask about the following passage:
+
+PASSAGE:
+<<TEXT>>
+END PASSAGE
+
+MORAL AND ETHICAL QUESTIONS:
+-

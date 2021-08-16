@@ -1,0 +1,6 @@
+What type of diabetes does the patient have?
+What are the current insulin doses on her insulin pump?
+How many units of insulin should she take for each 10 grams of carbohydrate consumed?
+What can cause elevated blood sugars later in the day after they are corrected?
+Is her insulin pump working properly?
+Should she use 1 unit of insulin for every 10 grams or carbohydrate consumed, or eat a consistent amount from day to day?

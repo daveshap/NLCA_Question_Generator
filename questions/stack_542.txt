@@ -1,3 +1,5 @@
 What are the Windows+Number shortcuts in Windows?
 What is the Unity interface for Linux?
 Is there a way to turn off the background listening service?
+Is there a way to improve the reliability of this keyboard shortcut?
+Is there a way to improve Super+Number reliability?

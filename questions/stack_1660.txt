@@ -1,0 +1,4 @@
+What is the format of the files on the SD card?
+What file types exist in the current directory (folder)?
+What do you want to be able to do with these files?
+What are you currently unable to do with these files?

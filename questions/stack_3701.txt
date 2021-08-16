@@ -1,3 +1,7 @@
 How could you measure the \"goodness\" of a regression?
 What does it mean to penalize?
 How would the likelihood take into account absolute error and standard deviation implicitly?
+What is the author's argument?
+What is the author's critique of Mean Squared Error?
+Does the likelihood take into account both the absolute error and the standard deviation in a prediction?
+Do you agree with the author's argument/critique of Mean Squared Error?

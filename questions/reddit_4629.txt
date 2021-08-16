@@ -1,0 +1,4 @@
+How long does it take to complete the task?
+How many people do you need?
+What type of materials are required?
+Are there any other special requirements?

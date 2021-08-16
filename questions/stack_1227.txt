@@ -1,3 +1,10 @@
 What is the difference between a data warehouse and a relational database?
 Can I put a many to many relationship in a star schema?
 What are the benefits of using a star schema for an organization's data warehouse?
+When is the transaction in this data warehouse happening?
+How many tables do you think there are in this relational database?
+What is the relationship between the tables?
+What type of relationships do they have?
+How many columns are there on each table?
+Which columns appear the most frequently on a table and which ones appear least frequently (those that have the most and least impact)?
+What would happen if we converted this design into a star schema?

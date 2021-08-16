@@ -1,3 +1,6 @@
 What is a neural network?
 What do "neural networks vs everything else" mean in the passage?
 What are the reasons that these other machine learning algorithms may outperform a carefully regularized 2 layered neural network?
+What are deep learning and machine learning?
+How do neural networks function in different situations?
+What does overfitting mean and how can it be managed with various strategies?

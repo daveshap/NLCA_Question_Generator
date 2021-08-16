@@ -1,0 +1,4 @@
+Which method should I choose for correlation analysis of between two dichotomous variables?
+How to?
+What is the Spearman Method?
+What type of problem does this solve?

@@ -1,3 +1,7 @@
 What is supervised classification, and what is unsupervised classification?
 What are the advantages of both methods?
 What are the disadvantages of both methods?
+Why are the data labels known?
+What are the data labels?
+Why would one use unsupervised classification instead of supervised classification?
+Why is there a difference between unsupervised and supervised classification?

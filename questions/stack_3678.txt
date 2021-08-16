@@ -1,3 +1,6 @@
 Why does the AUC equal the probability that a classifier will rank a randomly chosen positive instance higher than a randomly chosen negative one (assuming 'positive' ranks higher than 'negative')?
 What is an inverse as often suggested when the area is &lt;0.5?
 What causes the two observations in 1) and 2) to contradict each other?
+If one takes the Area Under The Receiver Operating Characteristic to mean that it is an indicator of probability, how does this interpretation make sense given that we are treating an event with a probability of success of 0.5 (a coin toss) as representing a test that has a probability of success of either 0.5 or 0.0?
+How do two individuals who are assumed to be disease free and one who is presumed to have the disease, but only tested one individual, rate with each other in terms of area under the curve as opposed to total area?
+Is Area Under The Receiver Operating Characteristic analogous to Area Under The Curve from a curve fitting perspective and if so, how can it be both?

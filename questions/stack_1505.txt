@@ -1,3 +1,8 @@
 What is the power station compensating for?
 How does the power station compensate for this?
 What is a micro loop?
+Why is there a difference between electricity supply for home and power station?
+What is the proper meaning of "current"?
+What happens when current leaks into the body of a utility appliance?
+How does the power station compensate for the lost current?
+Why are there threephase wires that travel from the power station instead of just one or two?

@@ -1,2 +1,6 @@
 Does the mob spawner only work when players are around?
 Does it depend on which server it is being used on?
+What is a "mob spawner"?
+What are mobs?
+What does "spawn" mean?
+Are the players on multiplayer servers always in the same place?

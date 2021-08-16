@@ -1,0 +1,6 @@
+What is induction?
+What does slip mean?
+What is the difference between motoring torque and load torque?
+How does the change in slip (s) have any impact on load torque in an induction machine/motor?
+Do the load torque also get affected by the slightest measures if not more?
+Is it possible that the graph for load torque (BC) is a straight line parallel to y axis rather than increasing slightly as slip tends to 0 because of magnetic flux linkage?

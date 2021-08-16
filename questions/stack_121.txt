@@ -1,0 +1,7 @@
+What is the W key on a keyboard mapped to?
+How do you assign a different key combination to the command?
+What causes this problem with Microsoft Remote Desktop?
+What is Microsoft Remote Desktop?
+What kind of shortcut key is accidentally closing browser tabs mapped to by default?
+What are other ways to disable this keyboard shortcut?
+Why doesn't the key combination work in this case?

@@ -1,0 +1,7 @@
+Do you have the system requirements to use your computer to create the Japanese system-wide spellchecker?
+How much time will it take to make this spellchecker?
+What are some of the steps needed in order to make a Japanese spellchecker for Mac OS 10.13?
+Where can you download a Japanese spelling dictionary that can be used in High Sierra?
+Have you gone to Apple's website for assistance with making a Japanese system-wide spellchecker?
+Did you find anything relevant from OpenOffice or LibreOffice for creating a Japanese spellchecker?
+Did you see anything on other websites that would help answer your question about how to make a good step by step tutorial on creating a Japanese system wide spell checker in High Sierra?

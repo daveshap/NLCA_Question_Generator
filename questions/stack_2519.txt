@@ -1,3 +1,7 @@
 Why is the answer to a correlation coefficient seemingly different in the passage than an observer might expect?
 What does a "correlation matrix" and "p-value" mean?
 How does one go about obtaining statistical significance and p-value?
+What are raster, correlation coefficients, and statistical significance?
+What does "grass" mean in this context?
+What is the difference between a covariance and a correlation?
+Why are there two sets of commands listed in the passage?

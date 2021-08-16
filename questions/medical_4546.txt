@@ -1,0 +1,8 @@
+What is the patient's medical history?
+How long ago was the C. diff infection?
+What home medications are they taking now?
+Have they had any allergies in the past?
+What is the current complaint?
+Does this concern a UTI or another bacteria infection? What lab work was done to help confirm this and were any cultures taken?
+What is the diagnosis and how will it be treated?
+What complications might arise from this disease and what can be done to prepare for them, if needed?

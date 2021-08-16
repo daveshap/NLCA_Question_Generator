@@ -1,2 +1,5 @@
 Can variational autoencoders be used as a denoising algorithm?
 Would the stochasticity of variational autoencoders prevent them from being successful as a denoising algorithm?
+Can Variational Autoencoders be used as a denoising algorithm?
+What would be the difference between using standard denoising autoencoders versus variational autoencoders?
+Would the stochasticity of the VAE have any affect on its ability to build a good denoiser?

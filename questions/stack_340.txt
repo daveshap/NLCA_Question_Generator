@@ -1,0 +1,5 @@
+What is the issue?
+What version of Xcode are you using?
+What operating system are you using?
+Where did you get the issue report from?
+Did the issue occur when you upgraded to a new version of Xcode?

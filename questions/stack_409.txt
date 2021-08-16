@@ -1,3 +1,0 @@
-The author has two drives, an internal SSD drive with Windows 10, and a USB flash drive with Ubuntu 17.04 that they wish to install persistent Ubuntu on.
-The partition manager does not let the author install onto the external USB drive without modifying the SSD's windows boot partition
-The author wishes to replicate what they had in the past where booting a machine without an Ubuntu 14 USB would take them straight to windows and booting with the USB would take them into a persistent Ubuntu 14 that behaved just like a normal internal drive installation (no file or program or setting loss like live versions).

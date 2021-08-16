@@ -1,0 +1,7 @@
+What is the simplest way to block specific IP's?
+Is there any way to make a script that will block specific IP's?
+How can you check if an IP is blocked?
+How can I block specific IPs?
+How can I block them?
+How would the firewall be able to block specific IPs?
+How would a script work?

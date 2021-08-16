@@ -1,0 +1,6 @@
+What can be inferred from the pattern of missed appointments?
+What is the patient's current physical condition?
+What is the difference between a call and a cancel?
+What are the objectives of physical therapy for this patient?
+What type of exercise has been prescribed for this patient?
+How would you make an assessment about this patient's progress in strengthening activity level based on these objectives?

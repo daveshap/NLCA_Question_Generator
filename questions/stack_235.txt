@@ -1,0 +1,7 @@
+Has the Macbook Pro gone through the initial setup?
+Were the boot files backed up before replacing the hard drive?
+Does the Macbook Pro respond when plugged into an external display and keyboard?
+Did you unplug all external devices from your Mac before installing anything to the drive?
+Did you turn your computer off after installing operating system software to avoid any possibility of a system restart at the very end of installation process that would erase everything on your computer’s hard drive?
+Is there light coming out of the back of your Mac or sound from its speakers, indicating that it’s running off external power sources?
+Do you have internet access while browsing on other devices?

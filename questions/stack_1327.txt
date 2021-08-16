@@ -1,3 +1,8 @@
 Is the light not working because it was accidentally wired to the wrong breaker?
 Is the disposal not working because it has been wired incorrectly, or installed improperly?
 Did the wires come out of the old wiring box, and if so, are they still attached to one of the new breakers?
+What breaker controls the light?
+What is the purpose of the switch?
+What side of the breaker is the black wire on in the old box?
+Where is the black wire on in the new box?
+Does any connection change when installing a different switch model for a 2 in 1 function?

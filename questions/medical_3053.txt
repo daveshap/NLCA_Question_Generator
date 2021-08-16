@@ -1,0 +1,6 @@
+What is the patient's presenting illness?
+How does this condition compare to the patient's past health?
+Is the disease life-threatening?
+Has the patient had a CT scan of his abdomen and bilateral pulmonary infarcts confirmed?
+What are some other conditions with symptoms like these that could be attributed to in evaluating for differential diagnosis of the patient's current health status?
+What lab work has been ordered at this time? What do results typically show for patients with this type of condition?

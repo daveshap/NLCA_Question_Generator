@@ -1,0 +1,7 @@
+What is the name of the surgical procedure?
+What were the preoperative diagnoses?
+What is the postoperative diagnosis?
+What procedure was performed?
+How many times did they go in during surgery and how many hours did it take to perform surgery in total?
+How often do doctors use this type of operation for this problem?
+Were there any complications from the surgery at all?

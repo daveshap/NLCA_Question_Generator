@@ -1,3 +1,7 @@
 What does the 'NULL' text refer to?
 What is QGIS?
 Is there a setting in version 3.4 of QGIS for hiding the 'NULL' text from empty attributes?
+What does QGIS stand for?
+What is a map?
+What is an attribute?
+How does hiding empty attributes work?

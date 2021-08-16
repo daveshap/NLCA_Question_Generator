@@ -1,4 +1,0 @@
-The site reads search engine results out loud to people with disabilities and the design of the site is modeled on a successful search engine's interface.
-The company behind this new technology thinks it could be useful for any user who wants to search without sound and can be set up as an alternative for those completely blind.
-Speegle does not offer more usability than a screen reader but it could offer additional, supplementary aid in language acquisition.
-In response to concerns about robots, the founder of Speegle has countered that this is an imitation that goes one step further.

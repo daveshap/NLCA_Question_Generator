@@ -1,3 +1,7 @@
 What is the passphrase for?
 What would happen if the passphrase were leaked or damaged?
 If I have a LUKS header backup on some removable media, do I need to record this key?
+Why is the observer presented with a list of available encryption methods in a GUI at installation?
+Is it possible to lose data if you forget the encryption passphrase and don't have a backup?
+What are the risks associated with using this encryption passphrase for data protection?
+Why would installing Linux with LUKS full drive encryption make someone think that they are being asked for their "true" encryption key?

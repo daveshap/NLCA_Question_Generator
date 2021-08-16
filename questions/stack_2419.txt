@@ -1,3 +1,6 @@
 What does "gdaltranslate" do?
 What is the problem with trying to recreate using worldfile=yes?
 Why does it think that it is working anyway and what are the potential effects of this error message?
+How does the language of this passage complicate its meaning?
+How is the purpose of this passage clear/ambiguous?
+What are some possible interpretations of what is going on in this passage?

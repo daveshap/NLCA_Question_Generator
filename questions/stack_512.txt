@@ -1,3 +1,7 @@
 What is the writer's current audio player?
 What features does the writer seek in a new audio player?
 Which current Linux audio players does the writer not recommend or is not compatible with his system?
+What is the author looking for in an audio player?
+Are they searching for a specific type of audio player (e.g., "oldfashioned")?
+What other programs have they tried, and what features were the ones that they like?
+What are the disadvantages of Decibel Audio Player if it's not being maintained anymore, and how does this make the author feel?

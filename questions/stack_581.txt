@@ -1,0 +1,4 @@
+What is the URL?
+Can you download packages using the terminal (find out which terminal to use)?
+What is the first command for downloading a package and unzipping it?
+What is the second command for installing a package?

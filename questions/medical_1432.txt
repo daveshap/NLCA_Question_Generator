@@ -1,0 +1,8 @@
+What type of chronic medical condition does the patient have?
+When was he last seen for a followup visit?
+What were the findings during the visit to the office today?
+Has the patient had falls recently or incontinence?
+What are medications that the patient is taking currently?
+Is there any concern about taking additional cholesterol lowering medication?
+Is there any concern about using a knee brace for pain and adding edema risk in this case?
+Does the patient have any plans to move closer to his primary physician in the future, if so when and why?

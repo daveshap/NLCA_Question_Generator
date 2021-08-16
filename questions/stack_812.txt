@@ -1,3 +1,6 @@
 What kind of video is this?
 What are the expectations for the video?
 How much time has the observer spent working with videos before?
+What are the first and last images?
+What is the location of the video/images?
+What is the author's experience with videos?

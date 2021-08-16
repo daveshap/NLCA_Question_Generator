@@ -1,3 +1,7 @@
 Why does the device still show 14.04 when it was updated?
 What browser should the person download?
 Is their computer able to be updated to 16.04?
+What computer operating system is running?
+What version of the OS does the user have?
+Did the updater get to updating or is there an error message displayed when starting up?
+Does the user need a specific browser for their work and what browser does he/she want to install?

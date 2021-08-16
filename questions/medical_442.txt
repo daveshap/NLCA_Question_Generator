@@ -1,3 +1,9 @@
 How does the operation work?
 What are the necessary equipment for this operation?
 Are there any risks or side effects of this operation?
+What is the author's occupation?
+What is the author's experience level in this profession?
+What is the procedure described?
+What were the different steps in this procedure?
+Who was operated on?
+How would the procedure have been performed differently if a different person had been operated on?

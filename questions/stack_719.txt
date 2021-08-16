@@ -1,3 +1,7 @@
 what is the name of the account on the VM?
 what Linux distribution is installed?
 how was the user added to the group on the VM?
+Why is the new user unable to Rdp?
+Why does it seem to authenticate the same as I do, but then the screen is simply blank?
+Is the new user account on the virtual machine preventing them from connecting to RDP on Linux?
+What are they able to do that I am not able to do with my credentials?

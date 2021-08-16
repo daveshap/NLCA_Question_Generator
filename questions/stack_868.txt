@@ -1,3 +1,6 @@
 What happened to the system when booting?
 What does firmware and e microcode mean?
 How does that relate to not being able to boot?
+What is the issue?
+What are some possible fixes?
+What additional information would be beneficial?

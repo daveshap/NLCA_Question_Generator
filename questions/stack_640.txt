@@ -1,3 +1,0 @@
-Riley is attempting to set up a mobile network, but the route from A to C and vice versa may not be static.
-Machine A has an IP of 2001:cdda:2011::1 and Machine B has an IP of 2001:cdda:2011::2.
-Ping6 from Machine A to Machine B works, but Ping6 from Machine A to Machine C fails.

@@ -1,2 +1,7 @@
 What does T-slip mean?
 Can someone have the same maximum torque but at a lower slip value, if so, what will be its advantages and disadvantages?
+What is a Tslip characteristics of an induction motor?
+What is torque and slip?
+For a given Tslip characteristic, what would be the maximum torque at a lower slip value?
+Is it even possible to have the same maximum torque but at a lower slip value?
+If possible, what are the advantages and disadvantages of having this kind of motor?

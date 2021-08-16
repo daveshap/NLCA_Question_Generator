@@ -1,3 +1,6 @@
 What does the word "quota" mean?
 What is the default quota?
 Can the default quota be set?
+How did the user default space quotas get established?
+Is there a way to determine what the user default quota is?
+How was it determined that the users running into this problem were never set up with specific quotas?

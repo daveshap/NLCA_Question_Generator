@@ -1,3 +1,7 @@
 What are the different diagnoses that this woman has?
 What surgical procedure was performed?
 What were her discharge diagnoses and conditions?
+What was the patient's diagnosis?
+What was the surgery performed?
+What are discharge diagnoses and postoperative condition?
+Was there a risk to the patient's fertility?

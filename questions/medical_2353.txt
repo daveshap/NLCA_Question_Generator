@@ -1,3 +1,8 @@
 What may have caused the old instrumentation to need to be removed?
 What percentage of patients with cervical discectomy and fusion recover completely?
 Would this surgery relieve all my symptoms?
+What is the purpose of this surgery?
+What does the patient's condition preoperatively?
+What are the postoperative diagnoses for each of the areas operated on and what procedures are performed at each site?
+What were the doctor's findings during the procedure, and how did they plan to address these findings?
+What possible complications might arise?

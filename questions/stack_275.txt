@@ -1,2 +1,5 @@
 What is the standard behavior of macOS with respect to displaying current week?
 How would an observer recommend configuring macOS to display the current week?
+is the answer to the question of interest or not?
+is there a solution to the problem in sight?
+who are you as the observer and how might your expertise or familiarity with the topic area help answer some of these questions?

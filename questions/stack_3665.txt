@@ -1,3 +1,6 @@
 What is entropy?
 Why is this being calculated?
 What does the passage describe?
+What are sensor values?
+How do you estimate a probability density function for the sensor values?
+What does entropy mean and what is it used for?

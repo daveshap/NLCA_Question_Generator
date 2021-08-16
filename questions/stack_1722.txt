@@ -1,3 +1,6 @@
 What is the input signal to the comparator?
 What is the output signal from the comparator?
 How does LTSpice control it as a comparator?
+What is a VCVS?
+Why would someone want to use it instead of a transistor?
+What will the addition of a VCVS table to LTSpice do?

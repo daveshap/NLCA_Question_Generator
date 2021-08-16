@@ -93,6 +93,26 @@ Use DAVINCI-INSTRUCT. Generate questions with the following kinds of prompts:
 - What would a mother/parent/friend ask?
 - What would a curious/kind/empathetic person ask?
 
+## Examples
+
+Add some framing to the prompt so the model knows when it ends, etc.
+
+```json
+{"prompt": "PASSAGE:\nVERA: See anything?\nSHELLY: Just a dirty window. Next time, I'll know how to handle a situation like that. Let's just hope that next time\" isn't too soon.\"\nVERA: Stop worrying. I don't think they'll bother to come after us.\nEND PASSAGE\nQUESTIONS:", "completion": "What's the date and time?\nDid they turn around at any point?\nWas there a car in front of or behind them?\nAre they planning on going to Shelly's house again?\nWhat's Shells last name?"}
+```
+
+Here's what a prompt might look like in plain text
+
+```
+PASSAGE:
+<<passage>>
+END PASSAGE
+QUESTIONS:
+```
+
+The framing may be superfluous but I think it will help the model know when it ends. Plus it only adds a few characters, rather than zero-shot instructions or few-shot examples.
+
+
 # Constitution
 
 ## Input data

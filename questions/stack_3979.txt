@@ -1,2 +1,4 @@
 How is it possible to mask out illegal connections in decoder multi-head attention?
 Is it alright to set some arbitrary max_length for layer normalization?
+How is it possible to mask out illegal connections in decoder multihead attention?
+Is it alright to set some arbitrary max_length for layer normalization?

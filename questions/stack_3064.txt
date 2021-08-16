@@ -1,0 +1,5 @@
+What is the writer's theory about emissivity?
+What does it mean for a black body to radiate?
+What factors could contribute to an object's emission of light?
+How would you go about figuring out if a black body emits more or less visible light than a metal ball?
+Has anyone performed this experiment on objects with varying emissivities, like molten glass and an infrared lamp?

@@ -1,3 +1,6 @@
-Can you use correlation coefficients in non linear cases?
-Is there a relation between each of the independent variables and the dependent variable, is this relation linear or not?
-Can you use PCC in non linear cases?
+Which one is the dependent variable?
+What are the independent variables?
+Is there more than one dependent variable?
+How are they related to each other?
+What is a correlation coefficient and what does it measure?
+Are you asking how to compute the correlation coefficient or how to interpret it?

@@ -1,3 +1,7 @@
 What are the author's details or background?
 Where is this passage from?
 What is the content of the passage about?
+What exactly is happening?
+Why do you want to change your part names?
+What are the limitations of Eagle's current function for changing a component name with a name that already exists?
+How do you know about Eagle's ULP renumbering function, what have you tried with it?

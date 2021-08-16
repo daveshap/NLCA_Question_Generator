@@ -1,0 +1,7 @@
+Have you ever encountered this problem before?
+Do you know what computer your running the Ubuntu 18.04 installation on?
+What modifications have you done to your computer, such as overclocking it or increasing its fan speed without adjusting the settings or restarting the computer?
+Have you tried to install any overclocking applications, such as corsair link or amd cool n quiet?
+When did this start happening (day, month, year)?
+Did this issue happen after installing an application or hardware onto your computer?
+Is there a specific spot on your motherboard where cables are plugged in that might be faulty and affecting the fan speed of nct6775/fan2?

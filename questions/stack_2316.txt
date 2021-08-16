@@ -1,3 +1,5 @@
 What is the maximum number of weapons and armor that can be stored?
 Can all weapons and armor in the game be acquired by a player?
 What happens to gear that is no longer used as the player accumulates more gear?
+Is there a cap on how many weapons/armors can be stored at the blacksmith?
+Is there a max limit to how many weapons and armors can be in possession by the player at any given time?

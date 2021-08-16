@@ -1,0 +1,5 @@
+How do I kill Google's Backup and Sync software?
+What should I type into the Terminal to kill Backup and Sync from Google?
+What is backup and sync?
+What is a bash script?
+Where can I learn about terminating the "Backup and Sync" software?

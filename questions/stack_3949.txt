@@ -1,3 +1,6 @@
 What is the goal of the study?
 What is a similar study, and why does it provide a relevant benchmark for the acceptance criterion?
 How large are samples in both studies?
+Can coefficients of variation be compared if the samples differ in size?
+Why is the acceptance criterion for this product based on %CV and not another metric?
+Could I use the same value of the acceptance criterion for my study to accept if the measurements fit?

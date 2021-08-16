@@ -1,2 +1,8 @@
 What is the best solution for such large and sensitive database?
 What is the best storage engine to use?
+What is the size of the database?
+How many tables are present in the database?
+What are the estimated number of records that will be added daily to the tables with financial data?
+Will there be a need for any large updates to this data?
+Is there a limitation on how long you want to store these records for future reporting purposes?
+Should one use TokuDB or InnoDB as storage engine for such a large amount of sensitive data?

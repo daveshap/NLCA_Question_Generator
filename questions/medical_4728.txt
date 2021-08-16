@@ -1,0 +1,7 @@
+What is the patient's condition?
+How does it affect her?
+What are the risks of her condition?
+What does her MRI reveal about the tumor?
+How was the tumor treated?
+How did she respond to treatment?
+What is the cause of her symptoms?

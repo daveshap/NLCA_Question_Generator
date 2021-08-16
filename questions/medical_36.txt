@@ -1,2 +1,5 @@
 What are the specific findings of the patient's ultrasound examination?
 What was the medical impression of the ultrasound examination?
+What diagnosis is the individual experiencing?
+How does the medical specialist know this is what is causing their pain?
+What recommendations are given to them to help alleviate the pain?

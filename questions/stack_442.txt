@@ -1,3 +1,8 @@
 What is the exact problem in the passage?
 Is this a MAAS installation or an installation of some other CMS?
 What is the stage in the commissioning process?
+What is the title of the passage?
+Where is this passage taking place?
+Who would have written this passage?
+Who are the important actors in this passage?
+What has been failed to do during the commissioning process?

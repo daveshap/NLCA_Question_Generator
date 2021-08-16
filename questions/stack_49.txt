@@ -1,3 +1,7 @@
 Does macOS work with 144 Hz displays?
 If not, can a MacBook be set to output video at 144 Hz?
 What will happen if I plug in an external 144 Hz display?
+What is the author's intention in writing this passage?
+What kind of media are being discussed?
+What is the reader meant to know as a result of reading this passage?
+Is there a particular bias that might influence the information given in this passage?

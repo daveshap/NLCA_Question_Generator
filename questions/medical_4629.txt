@@ -1,0 +1,5 @@
+What is the last sentence of the paragraph?
+What is the total amount of blood loss?
+How long does the patient stay in hospital?
+What type of procedure does the patient undergo?
+What did they anesthesiologist say about induction and recovery for this procedure?

@@ -1,0 +1,8 @@
+What program are you using?
+How do you adjust for age and the fact that there are twin pairs in the migraineur group?
+Can you explain more about the next step of your analysis?
+How are the groups defined and identified?
+Do you have a hypothesis or objective for this project?
+How did you get your data?
+What statistical model will you use to analyze your data?
+What does the output of your analysis look like?

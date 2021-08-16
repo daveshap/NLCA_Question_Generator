@@ -1,0 +1,6 @@
+What has been noted as the patient's vital signs?
+How would you assess the patient?
+What is your plan for the patient?
+What is the patient's diagnosis?
+Is the problem improving?
+What should be done for this problem?

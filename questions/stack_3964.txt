@@ -1,0 +1,5 @@
+How to run the regression of macroeconomic variables?
+What are the variables?
+Are they stationary or I(1)?
+What is cointegration? What does it measure?
+What are the steps to a cointegration test for forecasting?

@@ -1,3 +1,7 @@
 What is the goal of the circuit?
 What type of device does it concern (i.e. a computer, an electric circuit, etc.)?
 What is triggering input with varying input voltages?
+what is the goal of the circuit?
+does it need to be triggered from a varying input voltage range?
+what is the desired range for that input voltage range?
+what is the input voltage?

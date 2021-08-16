@@ -1,2 +1,5 @@
 Is it possible to insert a macro into an access database?
 How does one create another macro with a given input?
+What is a macro?
+What do you mean by "inserting a macro"?
+How can I tell the observer to insert the macro?

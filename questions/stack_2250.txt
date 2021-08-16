@@ -1,3 +1,7 @@
 Are weapons over-leveled so that lower level players can have access to higher level weapons?
 What does it mean for a player's accuracy when they use over-leveled weapons?
 Is it possible that one loses accuracy with higher level weapons?
+What is the damage of the level 15 axe?
+What is the level of the observer?
+Do the overleveled weapons lower the accuracy of an attack?
+If so, what causes this to happen?

@@ -1,3 +1,6 @@
 What kind of circuit does the observer think will have a slow attack response time?
 What is the desired attack response for an envelope follower?
 How long should the RC time be on a slow attack response circuit for it to be properly performing an envelope follower?
+How could an observer best answer the questions about the passage?
+How could an observer find what they need to know from this passage?
+What might happen if someone didn't know the answers to any of these questions?

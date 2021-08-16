@@ -1,0 +1,7 @@
+Is the patient awake?
+Is the patient supine or prone?
+What part of the body are you accessing?
+How is anesthesia delivered to that region of the body?
+What sort of catheter is being used and what size is it?
+Are there any complications with this procedure? If so, what are they?
+Is the wire out at the end of the procedure?

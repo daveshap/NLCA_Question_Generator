@@ -1,3 +1,6 @@
 What is the main problem that the author is experiencing?
 Does anyone know how to solve the author's problem?
 How many people use QGIS?
+What is the new version of QGIS?
+What does the observer mean by plugin menu?
+Why can't the observer find the vertices counter plugin in the new version of QGIS?

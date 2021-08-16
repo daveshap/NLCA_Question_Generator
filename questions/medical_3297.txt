@@ -1,2 +1,7 @@
 What could be causing the patient's gross hematuria?
 What does the physician recommend for his pain and sinus congestion?
+What is the patient's diagnosis?
+What are the risks associated with the treatment for this diagnosis?
+How does this condition affect the patient on a physical and emotional level?
+What questions does the patient ask about his condition?
+What are some interventions to address pain, sinus, and breathing problems in patients with degenerative disease?

@@ -1,0 +1,6 @@
+Where was the surgery performed?
+Was the patient asleep during the surgery?
+What difficulties did the surgeon face during the operation?
+How does a patent ductus arteriosus affect blood pressure in this patient?
+What is 'cross clamping'?
+How long did the surgery take, start to finish?

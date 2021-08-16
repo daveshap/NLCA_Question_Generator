@@ -1,2 +1,5 @@
 How can the last "cut" in Terminal be inserted into my text editor?
 Do I have a second clipboard separate from the system clipboard?
+What is the meaning of Ctrlk in Terminal?
+How do you copy to the system clipboard in Terminal?
+What does it mean to make Ctrlk in Terminal copy to the system clipboard?

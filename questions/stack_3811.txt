@@ -1,3 +1,6 @@
 What is a polynomial regression?
 What does it mean for a polynomial regression to have predictive value?
 How can an observer check which of the many curves has the most predictive value?
+Is the data fit to a curve?
+What is the definition of "predictive value?"
+How many curves are being compared?

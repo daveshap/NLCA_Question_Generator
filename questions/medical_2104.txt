@@ -1,0 +1,8 @@
+What is the patient's preoperative diagnosis?
+What is the postoperative diagnosis?
+What are the devices used in this procedure?
+Is there any pathology involved with this procedure? If so, what type of pathology is it and how does it relate to the surgery?
+What indications were present for this procedure?
+Was the patient consenting for this procedure prior to its performance?
+How long was the tourniquet inflated for during this procedure?
+What complications may have been experienced by the patient after this procedure was completed and taken home with them?

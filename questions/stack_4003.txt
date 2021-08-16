@@ -1,3 +1,5 @@
 What is a Gini index?
 What is a Random Forest node?
 What is the difference between a RF and Vanilla Bagging?
+Is Gini index actively involved in splitting a Random Forest node?
+Does Gini index play an active role in the split or it's just another index like Information Gain to measure the improvement of the uncertainty from one node to a next?

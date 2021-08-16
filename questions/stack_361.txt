@@ -1,0 +1,5 @@
+Where does the cable attaching to the adaptor attach?
+What is being tested to find if there are any outputs of DC voltage?
+How can the cables from the charger be dismantled?
+Is there a power adapter with sparking noise visible outside, exposed to open air?
+Can the power adapter only be used in one location at a time?

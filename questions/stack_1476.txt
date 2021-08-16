@@ -1,0 +1,4 @@
+How can the type of driver installed in a luminary be detected?
+What are the differences between analog and digital dimming interfaces?
+What is an example of an analog type dimming interface?
+What is an example of a digital type dimming interface?

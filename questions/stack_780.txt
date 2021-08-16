@@ -1,0 +1,4 @@
+What is swap?
+What is the end result if swapping is not performed well on an SSD?
+What is the difference between using a dedicated drive for SWAP and using a partition in the primary hard drive for SWAP?
+Why does "Linux Love" state that they would recommend sticking with the dedicated device option?

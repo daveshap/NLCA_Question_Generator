@@ -1,0 +1,5 @@
+What are the two types of analysis?
+How do I decide which analytical tool to use?
+What is the difference between segmented regression analysis and catenelson analysis?
+What is a theoretical difference between these two types of analysis?
+How do I decide or justify which analytical tool to use?

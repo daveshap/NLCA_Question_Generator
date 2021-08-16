@@ -1,3 +1,7 @@
 How do you connect to the remote PC?
 What software was used in the attempt to make the connection?
 What went wrong when trying to connect via ssh?
+What is an ipython notebook?
+What is ssh?
+What is MobaXterm?
+How does one use MobaXterm to connect to the remote computer?

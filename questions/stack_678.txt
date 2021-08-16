@@ -1,0 +1,4 @@
+What operating system are you running?
+How have you tried to change the default browser?
+Do you have Firefox installed in Wine?
+Have you changed your settings on the wine program?

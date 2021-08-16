@@ -1,2 +1,5 @@
 How do you use ArcPy to extract a specific category from a shapefile?
 What does the user mean by "labeled Kansas_pointOfInterest.shp"?
+What is ArcPy?
+What is a shapefile?
+Why are the observer interested in extracting from this shapefile only points of interest called "churches"?

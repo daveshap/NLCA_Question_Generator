@@ -1,2 +1,5 @@
 What are the Geohashs converted to?
 What is the end result of converting geohashes to KML?
+What is a geohash?
+What is KML?
+What kind of data will be plotted over the map?

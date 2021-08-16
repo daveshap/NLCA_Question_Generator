@@ -1,3 +1,6 @@
 1) What is it?
 2) Is it necessary?
 3) What effect would deleting it have?
+What is image.dd?
+Is it necessary?
+What effect would deleting it have?

@@ -1,0 +1,8 @@
+What is the cause of automatic suspend?
+Is there a way to prevent this from happening on an L520 Lenovo computer?
+What setting can be used to control how long the laptop waits before entering sleep mode?
+What are you trying to achieve?
+What is the problem preventing you from achieving your goal?
+How do the power settings on your laptop usually look, and how much time are they set to before automatically going into sleep mode?
+How long have you been having this problem for?
+How often does it happen?

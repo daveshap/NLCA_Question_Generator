@@ -1,3 +1,6 @@
-What SSDs are currently in use, the make and model
-What version of Ubuntu is installed, and do they want to keep the current OS?
-Which will be used for the new drive: 'Install alongside Win10' or 'Erase and install Ubuntu'?
+Is it morally acceptable to use an operating system that is not open source?
+Is Windows 10 a morally sound product?
+If someone were to purchase Ubuntu and install it on their computer, would they be ethically obligated to invest in acquiring a new operating system for their computer, or can they simply refrain from installing one?
+What operating system is Win10?
+What's an m.2 SSD?
+What are the benefits of installing Ubuntu alongside Win10 instead of erasing it and installing it?

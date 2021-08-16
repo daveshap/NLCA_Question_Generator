@@ -1,0 +1,7 @@
+What is the probable diagnosis?
+What is being performed?
+What type of anesthesia is administered?
+What type of procedure is this?
+How does it progress throughout the passage?
+What are the indications for the procedure?
+How did they gather consent from the patient and perform the surgery?

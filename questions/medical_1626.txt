@@ -1,0 +1,4 @@
+How many plans can be created during treatment planning?
+What is inverse treatment planning?
+How does the physician review a completed plan from the physics staff?
+How does the physician approve or disapprove a plan from the physics staff?

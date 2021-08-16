@@ -1,3 +1,7 @@
 What if I wanted 60C(~2500ohm) instead of 68C ?
 I fudged around with the resistors until I got what I wanted.  How would I go about calculating the values?
 How would one measure the temperature of a device without having to worry about running wires to its internals?
+How did the author find what is happening with the voltage divider?
+What do you think will happen if the author puts a 2K resistor instead of 10K for a temperature differential of 60C versus 25C?
+Where does the heat go when the circuit is "off"?
+What is a transistor and how does it work?

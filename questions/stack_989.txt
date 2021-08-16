@@ -1,3 +1,6 @@
 Does the Linux kernel source code contain device drivers?
 If they are part of kernel source code, how can it be possible?
 How does Linus Torvalds write it to be compatible with all computers and their hardware components?
+What is the difference between device drivers and kernel?
+How do you install Linux?
+What languages are used to write Linux?

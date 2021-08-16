@@ -1,3 +1,8 @@
 What package is the observer unable to locate?
 Why does the observer think this issue might be due to a version difference between what they're using and the passage's terminal command?
 Why does the observer hope anyone has a solution?
+Why can't the observer find the package?
+What is UNETbootin?
+Is unetbootin a linux application?
+Why can't the observer install unetbootin via terminal?
+Can the observer install unetbootin in other ways?

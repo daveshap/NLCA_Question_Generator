@@ -1,0 +1,9 @@
+What do you want to use as the hard drive for your Ubuntu computer?
+What is the problem you are experiencing with your Windows 7 OS?
+Which partition on your hard drive are you installing Ubuntu on?
+What operating system is on the user's laptop?
+How did the user install Ubuntu?
+What are the postinstallation steps of lvm and what is the difference between lvm and using a partition to divide disk space?
+What does erasing the drive do?
+If they selected "use lvm" on installation, why would there still be only Ubuntu after installation?
+Does this happen often or for certain brands of laptops?

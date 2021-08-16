@@ -1,3 +1,5 @@
 What type of models are being validated and how should they be regressed?
 Are the features input for the models imbalanced, meaning that not all of them are used evenly by patients?
 Would it be better to balance the train and test datasets, or is it okay to make sure that patients can't appear in both sets?
+How can I improve this validation approach in general, given this little amount of data and imbalance in patient representation?
+Would it hurt to let go of the 'keeping patients separate in every split' approach in this kind of setting?

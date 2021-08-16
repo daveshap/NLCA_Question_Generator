@@ -1,3 +1,7 @@
 What is an example of a near-repeat?
 What does the term “eliminate the second value” mean?
 How would you make sure that only one value (the first) remains after the near-repeat is eliminated?
+Which database is being discussed in the passage?
+What are the values in the database?
+What is an example of how the database is repeating?
+What does it mean to eliminate the second value while keeping the first?

@@ -1,3 +1,7 @@
 How does this person know that Transport mode is not recommended in a gateway-to-gateway setting?
 What is the difference between IPsec in Tunnel and Transport modes?
 Why might someone want to use Transport mode rather than Tunnel mode?
+What is the benefit of using IPsec Transport mode versus Tunnel mode in a gatewaytogateway connection?
+How does an observer know whether or not a gatewaytogateway connection should use IPsec Transport mode versus Tunnel mode?
+What are the benefits of using IPsec Transport mode versus Tunnel mode in a gatewaytogateway connection?
+Are there fundamental reasons why it might be impossible to use IPsec Transport mode?

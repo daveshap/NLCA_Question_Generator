@@ -1,3 +1,7 @@
 What is the length of a long pulse?
 What type of switch is being used?
 What components are available to extend the pulse form the rising edge?
+What does the 500ms pulse extender have to do with a momentary tactile switch?
+What is the duration of a typical on/off signal that an SPST momentary tactile switch would send?
+Is there a single IC that holds or generates pulses for different lengths of time?
+Do we ignore what happens if the button is pressed for longer than 500ms, or when the button has been pressed for less than 500ms but not released before another button press?

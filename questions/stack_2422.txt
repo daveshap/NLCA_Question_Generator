@@ -1,0 +1,6 @@
+What is the name of the software being used?
+What is the process for making ArcMap label using the first letter from each word in an attribute?
+How do I create labels using the first letter of each word from a specific attribute, preferably using Python as the parser?
+What is the capitalization of the first letter?
+What type of label does the observer want?
+What is the use case for this data labeling?

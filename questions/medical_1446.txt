@@ -1,0 +1,6 @@
+Did the patient's symptoms change or get worse after surgery?
+Is the patient currently on any medications that should be checked?
+Were there any other changes in the patient's symptoms?
+Can you elaborate on the procedures done during and after surgery?
+What are some of the long term effects of this surgery on the body?
+Why does an atrial fibrillation pattern occur post operatively?

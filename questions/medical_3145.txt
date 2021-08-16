@@ -1,0 +1,6 @@
+What is the patient's diagnosis?
+What did the preoperative pathology report reveal?
+What was performed for this patient during the operation?
+How long was the operation?
+Where did the doctor perform this surgery procedure?
+How will you help to prevent lung collapse in future procedures if needed?

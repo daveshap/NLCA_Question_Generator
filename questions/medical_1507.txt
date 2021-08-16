@@ -1,0 +1,6 @@
+What is the medical reason for the exam?
+What did the exam find?
+What was the normal size and size of  what part?
+What else was noted on both the left and right chambers?
+Are there any abnormalities of either heart valve that seem to affect functioning?
+What is your conclusion of the findings?

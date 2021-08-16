@@ -1,0 +1,7 @@
+Does the patient have an indwelling urinary catheter in place?
+Does the patient's prostate feel hypertrophy?
+What are the kidney donor and recipient's blood types?
+What medications is the patient on?
+Are there any allergies to these medications?
+Did the urologist examine any of the patient's other systems besides his bladder, prostate, and kidneys?
+What complications can occur as a result of BPH?

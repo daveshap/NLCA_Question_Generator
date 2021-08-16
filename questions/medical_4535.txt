@@ -1,0 +1,10 @@
+What is the history of present illness?
+What was the nature of the fall?
+What surgical history does he have?
+How many packs of cigarettes a day does he smoke?
+Does he drink alcohol at least once a week?
+What is his occupation?
+What is his past medical history (PMH)?
+What were the results of his physical examination and vital signs?
+What are his symptoms and did he have any scans done to determine what was wrong with him?
+Did anything come back on those scans indicating a diagnosis or possible diagnosis in your patient's case (tumor, contusion, infection, etc.)?

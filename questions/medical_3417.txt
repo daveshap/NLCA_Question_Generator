@@ -1,0 +1,4 @@
+Is the patient at risk for developing bronchitis?
+What is the medical cause of the patient's cough and abdominal pain?
+Does the patient have a history of smoking or drinking alcohol?
+Is there any cost to diagnose her with bronchitis if this is not her actual condition?

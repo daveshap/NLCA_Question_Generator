@@ -1,2 +1,4 @@
 Is it possible to set up an Apple Watch with a MacBook Pro?
 Is "Auto Unlock - Supported" telling the observer that the Apple Watch is set up on this system?
+What features are possible for me to set up?
+Is my Apple Watch on or setup?

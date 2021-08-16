@@ -1,0 +1,5 @@
+What is the name of the scan?
+What was done to the patient?
+What were the results of the study?
+What is an interpretation of cardiac perfusion?
+What did the EKG show during stress test or what were the possible findings at maximal stress test?

@@ -1,3 +1,8 @@
 What are covariance and correlation?
 What is the difference between covariance and correlation?
 Are covariance and correlation equally structural?
+What is covariance?
+What does the term DGP mean in this context?
+Why would it seem obvious that covariance is a more structural property of data?
+What does mean when an observer says "relatively speaking" in the passage?
+Which statistic has a bound between 1 and 1, meaning all values within this interval represent positions from negative to positive correlation between variables?

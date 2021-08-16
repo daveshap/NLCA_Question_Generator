@@ -1,2 +1,5 @@
 How would a person know for each application which packaging type the provider will keep current?
 In the future, when a system will have a mix of debian, snap, and even flatpak packages available for the various applications, how will someone know which ones to use?
+How is an observer to know which packaging type will be kept current?
+What does it mean that a snap package was not being kept current?
+How would a person know for each application which packaging type the provider will keep current?

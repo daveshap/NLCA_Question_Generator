@@ -1,0 +1,5 @@
+What is a hitbox?
+How do hats change the game?
+Do hats change the size or shape of a car's hitbox?
+Would bigger hats increase the probability of a car being hit, or does it matter what size hat the person has on?
+What are some other things that change the hitbox in games?

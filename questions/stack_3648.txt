@@ -1,3 +1,6 @@
 What is the impact of leaving disabled root key on AWS instance?
 Does someone's disabled root key pose a threat to the server?
 What should be done about an obsolete or disabled root key?
+What is the importance of leaving a disabled root key on AWS instance?
+What type of user would leave the disabled root key and why would he/she do so?
+Is it better to remove it from the system or keep it for any potential emergency?

@@ -1,0 +1,6 @@
+What is the last procedure that will be performed?
+What needs to be done before this procedure can be done?
+Why is the patient unable to complete this task?
+Is there any time constraint for completing the task?
+What are the steps for performing this procedure and what aids are needed?
+Do you need any further clarification on the instructions?

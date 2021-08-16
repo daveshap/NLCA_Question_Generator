@@ -1,0 +1,5 @@
+What are the advantages of computer security using trusted hardware?
+What are the disadvantages of computer security using trusted hardware?
+Why would recording some shows, and other programmed that have been recorded, be automatically deleted after a day because of changes made to TiVo's software?
+What does "trusted computing" mean?
+Who determines whether or not an "unlocked version leaks?"

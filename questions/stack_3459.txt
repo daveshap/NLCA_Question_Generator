@@ -1,2 +1,5 @@
 How does an observer determine what time limit was set for the CSRF token?
 What is the recommendation for data the user filled out in HTML forms?
+In what context is the CSRF token being sent?
+Why did the CSRF token expire 12 hours after the user has left that browser window open?
+What is the recommendation for data that the user filled out in HTML forms? Should I keep track of it and repopulate the form with data they already entered when they finally get back to that page?

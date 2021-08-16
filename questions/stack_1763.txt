@@ -1,0 +1,4 @@
+Is it better to rectify and convert input voltage before or after passing it through a switching regulator?
+Is an AC voltage safe for use with a switching regulator?
+Where should the conversion from AC to DC take place, at the input or at the output?
+What are some of the advantages and disadvantages of using a non-isolated SMPS supply?

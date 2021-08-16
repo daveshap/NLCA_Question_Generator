@@ -1,3 +1,6 @@
 Is the replacement battery a suitable replacement?
 What color wires should be connected to a CR123A battery?
 How do I connect the wires to the new battery?
+How do I replace a battery with a source of the same voltage but different capacity?
+What does the original battery have written on it?
+Why does the original battery have 3 wires: red, white, and black?

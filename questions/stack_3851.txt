@@ -1,0 +1,6 @@
+Which test do you want to perform?
+Is the outcome of your test dependent on the outcome of the first?
+What is in this passage that suggests that we are testing without doing ANOVA?
+What is the purpose of ANOVA?
+Why would you do a post hoc test without doing an ANOVA?
+What does it mean for variation to vary greatly between groups?

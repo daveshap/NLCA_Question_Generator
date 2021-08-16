@@ -1,3 +1,7 @@
 What does "missing data" mean in this context?
 What are two related tables?
 What is an inner join and what is an outer join?
+What would the observer like to know more about?
+What is a Tsql join?
+What is an inner join?
+What is an outer join?

@@ -1,2 +1,5 @@
 Is there a way to get the installation wizard to show all of the drives?
 Can I use all of my windows drives after installing Ubuntu?
+Does the installation of Ubuntu make drive G inaccessible on Windows?
+Are there compatibility issues between the two operating systems?
+Is it possible to install Ubuntu without sacrificing anything on Windows?

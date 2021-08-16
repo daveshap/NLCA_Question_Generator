@@ -1,5 +1,7 @@
-What is the patient's age?
-What was the patient's condition before and after the procedure?
-What is the diagnosis? What treatments are needed for this diagnosis?
-How long was anesthesia given for the procedure?
-What were the surgeon's impression of the neurological assessment during and after surgery?
+What is the procedure?
+Who does the patient come into contact with?
+How long does the procedure take?
+What procedural and anesthetic questions arise?
+What preprocedural steps should be completed before this procedure begins?
+What preparations are done for this procedure?
+Who could or should perform this procedure?

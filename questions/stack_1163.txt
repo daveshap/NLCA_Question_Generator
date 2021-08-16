@@ -1,3 +1,6 @@
 How does MongoDB create an index on the _id field?
 If I create an additional compound index on (_id.a,field1,field2), will it create an additional overhead?
 What data types are supported by MongoDB Embedded Index?
+Do index name(s) need to be consistent with the field names?
+How does MongoDB order documents in an index if both fields are indexed?
+Do compound indexes require index name to match the fields being indexed?
