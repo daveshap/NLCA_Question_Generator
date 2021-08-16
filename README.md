@@ -1,140 +1,97 @@
-# RavenFinetune
+# NLCA Question Generator
 
-Finetuning experiments and datasets for Raven
+The Natural Language Cognitive Architecture (NLCA) requires the ability to generate questions for several purposes. First, generating questions is one of the primary ways it "thinks". Curiosity is merely unspoken internal questions. The ability to spontaneously generate questions leads to the ability to seek answers, and thus accumulate more information. Just asking questions and seeking answers could be one path to AGI.
 
-1. Collect and generate CONTEXTS
-2. Generate training datasets with DAVINCI-INSTRUCT
-3. Cleanup datasets by hand
-4. Finetune models
+Generating good questions is the root of curiosity and learning. By asking follow-up questions, and seeking answers, you can create a positive-feedback loop which results in greater understanding. Furthermore, it just makes for a good conversational companion. For instance, you could have a chatbot that only asks questions and still have a tremendously valuable tool.
 
-## Training Data
+## Scheme
 
-- May need to include `<<END>>` in the training samples.
-- Arbitrary datasets should include:
-  - Conversations
-  - Situations/works of fiction
-  - Scientific/medical papers
-  - News articles
-  - Blog posts
+You start with a context. In this case, a context is a scenario, story, article, or dialog. This context then has questions associated with it. This forms the training data for the finetuned model. Here's an example context:
 
-### Sources
+> Does anyone else's stomach gets upset when anxious? My stomach always begins to ache when anxious. At times I have to excrete too. Sometimes it is painful.
 
-- Multiple domain (stack exchange) https://github.com/Guzpenha/MANtIS
-- Multiple domain (stack exchange) https://guzpenha.github.io/MANtIS/
-- Many lists for chatbot training https://kili-technology.com/blog/chatbot-training-datasets/
-- Medical NLP https://github.com/socd06/medical-nlp 
-- General purpose summarization https://www.kaggle.com/varunucl/wikihow-summarization
-- News summarization https://www.kaggle.com/pariza/bbc-news-summary
-- News summarization https://www.kaggle.com/sunnysai12345/news-summary
-- Movie reviews https://www.kaggle.com/nltkdata/movie-review
-- Supreme court cases https://www.kaggle.com/wustl/supreme-court
-- Data science reddit https://www.kaggle.com/maksymshkliarevskyi/reddit-data-science-posts
-- Reddit broad spectrum https://www.kaggle.com/ammar111/reddit-top-1000
-- Reddit broad spectrum https://www.kaggle.com/hritik7080/reddit-flair-dataset
-- Reddit broad spectrum https://www.kaggle.com/prakharrathi25/reddit-data-huge
+And here's an example set of questions:
 
-## Models
+> Are you constantly anxious?
+> What happens when you're anxious?
+> How often does this happen?
+> Does anything else trigger your anxiety?
 
-1. Summarizer
-   - A general purpose summarizer. Can summarize arbitrary text payloads.
-   - Used to summarize contexts, KB articles, memories for dossiers, external articles (news/wiki).
-   - Summaries to be stored in corpuses and dossiers.
-2. Question Generator
-   - A general purpose question generator. Can generate salient questions on arbitrary text.
-   - Used to generate questions about contexts, corpuses, and dossiers.
-   - Questions are then used to extract information from the QA system. Answers to be stored in corpuses and dossiers.
-3. Constitution
-   - Specific to Raven. Meant to interpret contexts, corpuses, and dossiers.
-   - Must include Core Objective Functions and reasoning (e.g. "I cannot do that because it would violate Core Objective Function 1: reduce suffering")
-   - Output intended for corpuses and dossiers.
-4. Output
-   - Specific to Raven.
-   - Input is corpuses only.
-   - Output is dialog only.
-   
-For later:
-
-- Censorship
-  - General purpose high-risk use case detection.
-  - Specifically for Raven.
-  - "I cannot give medical advice because I am not a doctor".
-- Contemplation
-  - Free association on a given topic.
-  - Extract insights, cause-and-effect, etc.
-  - Long term implications - what is the significance?
-  - Trained on arbitrary sources.
-
-# Summarizer
-
-## Input data
-
-Use arbitrary datasets (see above)
-
-## Output data
-
-Use DAVINCI-INSTRUCT. Generate summaries with the following kinds of prompts:
-- Intent
-- Sentiment
-- Valence
-- Novelty
-- Significance
-
-# Question Generator
-
-## Input data
-
-Use arbitrary datasets (see above)
-
-## Output data
-
-Use DAVINCI-INSTRUCT. Generate questions with the following kinds of prompts:
-- What are the most important questions to ask here?
-- What would a doctor/scientist/lawyer/therapist ask?
-- What would a mother/parent/friend ask?
-- What would a curious/kind/empathetic person ask?
-
-## Examples
-
-Add some framing to the prompt so the model knows when it ends, etc.
+Here's what the same thing looks like as training data:
 
 ```json
-{"prompt": "PASSAGE:\nVERA: See anything?\nSHELLY: Just a dirty window. Next time, I'll know how to handle a situation like that. Let's just hope that next time\" isn't too soon.\"\nVERA: Stop worrying. I don't think they'll bother to come after us.\nEND PASSAGE\nQUESTIONS:", "completion": "What's the date and time?\nDid they turn around at any point?\nWas there a car in front of or behind them?\nAre they planning on going to Shelly's house again?\nWhat's Shells last name?"}
+{"prompt": "Does anyone else's stomach gets upset when anxious ?\nMy stomach always begins to ache when anxious . At times I have to excrete too . Sometimes it is painful .\nQUESTIONS:", "completion": "Are you constantly anxious?\nWhat happens when you're anxious?\nHow often does this happen?\nDoes anything else trigger your anxiety?"}
 ```
 
-Here's what a prompt might look like in plain text
+## Usage Quickstart
 
+### Training
+
+I wrote a file called `finetune.py` that contains a few functions to help speed things along. All you need to do is run a few CLI commands to get started. Make sure you create `openaiapikey.txt` first, and put your API key in it.
+
+```python
+from finetune import *
+file_upload('questions.jsonl')
+finetune_model('<fileid returned from file_upload command>')
+finetune_list()
 ```
-PASSAGE:
-<<passage>>
-END PASSAGE
-QUESTIONS:
-```
 
-The framing may be superfluous but I think it will help the model know when it ends. Plus it only adds a few characters, rather than zero-shot instructions or few-shot examples.
+The training data is ready to go as `questions.jsonl`!
+
+### Completion
+
+I wrote a quick demo script called `test_finetune.py`. You'll need to populate it with your own finetuned model name. You can see it with the above `finetune_list()` function. Here's an example of the performance:
+
+Context:
+
+> So guys I have this crush on this boy and he's so dumb but I love him. His name is Roger and he's the quarterback of the team.
+
+Questions:
+
+> What is the narrator's name?
+> How old is the narrator?
+> What team does the narrator play on?
+> What is the narrator's relationship to Roger?
+> Does the narrator have a crush on Roger?
+> What is Roger's last name?
+> Where does Roger play on the team?
+> What is Roger's position on the team?
+> Does the narrator have any other friends on the team?
+> Does the narrator have any other crushes besides Roger?
+> What is the name of the school that the narrator attends?
+> What is the name of the team that Roger plays for and what position does he play?
+> Does the narrator have any brothers or sisters?
+> Does the narrator go to a public or private school?
+> What is the name of the city that the narrator lives in or where they live?
+> What sports does the narrator play?
+> Does the narrator have any brothers or sisters that play on the team?
+
+This list is a bit ridiculous but you can see how it really took the idea of asking questions and ran with it. These questions can be used for conversational purposes, or for searching a database with information about the narrator. For instance, imagine that you have a personal assistant that has recorded all previous conversations with you. These kinds of questions can be used internally for the information assistant to recall the correct details and hold a realistic conversations. Alternatively, these questions can be used to have a real-time conversation.
 
 
-# Constitution
+## Explanation of Everything
 
-## Input data
+### Contexts
 
-1. Use arbitrary datasets above to generate contexts
-2. Generate corpuses from contexts using summarizer and question generator
-3. Corpuses will be input data
+I scraped together the contents of the `contexts` folder from various data sources, mostly from Kaggle. Another good source was https://github.com/Guzpenha/MANtIS. Check in the `data_prep_scripts` for some of the data cleaning scripts I wrote. The idea was to pare down the contexts to bare minimum, so as to remove some framing, comments, and other noise. I also included a variety of types of contexts so that the AGI would be familiar with many types of situations. There are medical cases, reddit and stack exchange posts, movie dialog, and news snippets. This combination means that the finetuned model will be excellent at generating questions for almost any scenario, whether it's one person asking for help, talking to multiple people, or reacting to news.
 
-## Output data
+Check in the `contexts` folder for a list of all contexts. I only used 1200 of them for the training set, but I have more than 50,000 available for future use.
 
-Use DAVINCI-INSTRUCT. Generate constitution output with several prompts:
-- Core Objective Functions - "I should intervene because of suffering" etc.
-- Identity - "I am Raven, this is my purpose, what do I think about the following scenario?"
+Types of contexts used:
+1. Reddit posts from many different subreddits
+2. Stack Exchange posts from several domains
+3. News articles, mostly British
+4. Medical notes
+5. Dialog from movies
 
-# Output
+### Questions
 
-## Input data
+I found that GPT-3 is great at asking questions if you give it a lot of power. I used `DAVINCI-INSTRUCT-BETA` and gave it the simple command of `Write a list of the most important and salient questions an observer would ask about the following passage:`. This prompt generated the best results by far. For instance, GPT-3 was able to read between the lines on more emotional contexts or infer the medical condition on doctors notes. GPT-3 implicitly demonstrated that it has strong knowledge about the world - far more than any one person. I learned a lot just by looking at the questions it asked!
 
-- Corpuses (with constitution)
+I set the temperature pretty high on GPT-3 so that it would be as creative as possible with the questions. I also ran it a second time to ensure that each context had at least 4 questions asked. Plus, I wrote a script that would remove any lines from the questions that did not end in a question mark. 
 
-## Output data
+Check in the `questions` folder for all generated questions. I spent about $120 of DAVINCI tokens to generate the datasets.
 
-Use DAVINCI-INSTRUCT. Generate Raven dialog output with prompts like:
-- "I am Raven, these are my functions. The following is a situation, etc, etc. What do I say?"
+### Training Data
 
+Finally, I put it all together with `format_question_training.py`. This creates a JSONL file with all the questions and their associated contexts. It also adds `QUESTIONS:` to the end of the context becuase the model will need to know when to switch to questions. 

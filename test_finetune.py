@@ -6,8 +6,8 @@ with open('openaiapikey.txt', 'r') as infile:
 openai.api_key = open_ai_api_key
 
 
-ft = 'curie:ft-user-aev4t8pdy0qsyqxayyjuuqut-2021-08-16-14-23-55'
-#ft = 'ft-user-aev4t8pdy0qsyqxayyjuuqut-2021-08-16-14-23-55'
+#ft = 'curie:ft-user-aev4t8pdy0qsyqxayyjuuqut-2021-08-16-14-23-55'
+ft = 'curie:ft-user-aev4t8pdy0qsyqxayyjuuqut-2021-08-16-14-55-01'
 
 
 def completion(prompt, model, temp=0.5, top_p=0.95, tokens=200, freq_pen=0.0, pres_pen=0.0, stop=['<<END>>']):
@@ -22,10 +22,7 @@ def completion(prompt, model, temp=0.5, top_p=0.95, tokens=200, freq_pen=0.0, pr
         stop=stop)
     return response['choices'][0]['text'].strip().splitlines()
 
-prompt = '''PASSAGE:
-So guys I have this crush on this boy and he's so dumb but I love him. His name is Roger and he's the quarterback of the team.
-END PASSAGE
-
+prompt = '''So guys I have this crush on this boy and he's so dumb but I love him. His name is Roger and he's the quarterback of the team.
 QUESTIONS:'''
 
 questions = completion(prompt, ft)
