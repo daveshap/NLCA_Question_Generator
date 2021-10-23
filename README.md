@@ -31,7 +31,7 @@ I wrote a file called `finetune.py` that contains a few functions to help speed 
 
 ```python
 from finetune import *
-file_upload('questions.jsonl')
+file_upload('fine-tune', 'questions.jsonl')
 finetune_model('<fileid returned from file_upload command-')
 finetune_list()
 ```
